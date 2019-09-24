@@ -9,3 +9,14 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForeachStatement\obj\Debug\n
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.pdb
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\bin\Debug\netcoreapp2.2\ForeachStatement.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\bin\Debug\netcoreapp2.2\ForeachStatement.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\bin\Debug\netcoreapp2.2\ForeachStatement.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\bin\Debug\netcoreapp2.2\ForeachStatement.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\bin\Debug\netcoreapp2.2\ForeachStatement.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ForeachStatement\obj\Debug\netcoreapp2.2\ForeachStatement.pdb

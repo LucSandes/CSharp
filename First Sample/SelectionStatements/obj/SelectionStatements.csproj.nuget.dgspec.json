@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\SelectionStatements\\SelectionStatements.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\SelectionStatements\\SelectionStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\SelectionStatements\\SelectionStatements.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\SelectionStatements\\SelectionStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\SelectionStatements\\SelectionStatements.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\SelectionStatements\\SelectionStatements.csproj",
         "projectName": "SelectionStatements",
-        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\SelectionStatements\\SelectionStatements.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\SelectionStatements\\SelectionStatements.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\SelectionStatements\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\SelectionStatements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

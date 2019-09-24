@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\bin\Debug\netcoreapp2.2\AnonymousTypes.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\bin\Debug\netcoreapp2.2\AnonymousTypes.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\bin\Debug\netcoreapp2.2\AnonymousTypes.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\bin\Debug\netcoreapp2.2\AnonymousTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\bin\Debug\netcoreapp2.2\AnonymousTypes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\obj\Debug\netcoreapp2.2\AnonymousTypes.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\obj\Debug\netcoreapp2.2\AnonymousTypes.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\obj\Debug\netcoreapp2.2\AnonymousTypes.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\obj\Debug\netcoreapp2.2\AnonymousTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\AnonymousTypes\obj\Debug\netcoreapp2.2\AnonymousTypes.pdb

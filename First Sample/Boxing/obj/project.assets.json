@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Boxing\\Boxing.csproj",
+      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Boxing\\Boxing.csproj",
       "projectName": "Boxing",
-      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Boxing\\Boxing.csproj",
+      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Boxing\\Boxing.csproj",
       "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Boxing\\obj\\",
+      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Boxing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

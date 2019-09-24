@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\bin\Debug\netcoreapp2.2\Operator.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\bin\Debug\netcoreapp2.2\Operator.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\bin\Debug\netcoreapp2.2\Operator.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\bin\Debug\netcoreapp2.2\Operator.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\bin\Debug\netcoreapp2.2\Operator.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Operator\obj\Debug\netcoreapp2.2\Operator.csprojAssemblyReference.cache

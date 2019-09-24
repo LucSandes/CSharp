@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\DoWhile\\IterationStatements.csproj",
+      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\DoWhile\\IterationStatements.csproj",
       "projectName": "IterationStatements",
-      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\DoWhile\\IterationStatements.csproj",
+      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\DoWhile\\IterationStatements.csproj",
       "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\DoWhile\\obj\\",
+      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\DoWhile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

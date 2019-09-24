@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Strings\\Strings.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Strings\\Strings.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Strings\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Strings\\Strings.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\Strings\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

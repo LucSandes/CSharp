@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ValueTypes\\ValueTypes.csproj",
+      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ValueTypes\\ValueTypes.csproj",
       "projectName": "ValueTypes",
-      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ValueTypes\\ValueTypes.csproj",
+      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ValueTypes\\ValueTypes.csproj",
       "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ValueTypes\\obj\\",
+      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ValueTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

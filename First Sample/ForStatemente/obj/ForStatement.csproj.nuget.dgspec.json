@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ForStatemente\\ForStatement.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ForStatemente\\ForStatement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ForStatemente\\ForStatement.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ForStatemente\\ForStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ForStatemente\\ForStatement.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ForStatemente\\ForStatement.csproj",
         "projectName": "ForStatement",
-        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ForStatemente\\ForStatement.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ForStatemente\\ForStatement.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\Fisrt Sample\\ForStatemente\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\First Sample\\ForStatemente\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
