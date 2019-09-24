@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\bin\Debug\netcoreapp2.2\ForStatement.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\bin\Debug\netcoreapp2.2\ForStatement.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\bin\Debug\netcoreapp2.2\ForStatement.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\bin\Debug\netcoreapp2.2\ForStatement.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\bin\Debug\netcoreapp2.2\ForStatement.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\obj\Debug\netcoreapp2.2\ForStatement.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\obj\Debug\netcoreapp2.2\ForStatement.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\obj\Debug\netcoreapp2.2\ForStatement.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\obj\Debug\netcoreapp2.2\ForStatement.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ForStatemente\obj\Debug\netcoreapp2.2\ForStatement.pdb

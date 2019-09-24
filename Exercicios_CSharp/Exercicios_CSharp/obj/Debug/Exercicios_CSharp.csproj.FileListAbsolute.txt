@@ -1,0 +1,17 @@
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.Properties.Resources.resources
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csproj.GenerateResource.cache
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\bin\Debug\Exercicios_CSharp.exe.config
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\bin\Debug\Exercicios_CSharp.exe
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\bin\Debug\Exercicios_CSharp.pdb
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.exe
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.pdb
+C:\Users\topdown\Desktop\Amil\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.Exercicios.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.Exercicios.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.Properties.Resources.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csproj.GenerateResource.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\Exercicios_CSharp\Exercicios_CSharp\obj\Debug\Exercicios_CSharp.pdb
