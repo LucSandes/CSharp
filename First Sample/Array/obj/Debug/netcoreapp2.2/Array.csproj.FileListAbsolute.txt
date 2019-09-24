@@ -9,3 +9,14 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\Array\bin\Debug\netcoreapp2.
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\Array\obj\Debug\netcoreapp2.2\Array.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\Array\obj\Debug\netcoreapp2.2\Array.pdb
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\Array\obj\Debug\netcoreapp2.2\Array.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\bin\Debug\netcoreapp2.2\Array.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\bin\Debug\netcoreapp2.2\Array.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\bin\Debug\netcoreapp2.2\Array.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\bin\Debug\netcoreapp2.2\Array.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\bin\Debug\netcoreapp2.2\Array.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\Array\obj\Debug\netcoreapp2.2\Array.pdb

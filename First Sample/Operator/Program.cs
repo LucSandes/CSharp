@@ -91,7 +91,7 @@ namespace Operator
                 Console.WriteLine("Uma ou mais operações posúi valor menor ou igual a zero!");
             }
 
-
+            
             Console.ReadKey();
         }
     }

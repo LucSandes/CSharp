@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\bin\Debug\netcoreapp2.2\ClassSample.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\bin\Debug\netcoreapp2.2\ClassSample.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\bin\Debug\netcoreapp2.2\ClassSample.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\bin\Debug\netcoreapp2.2\ClassSample.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\bin\Debug\netcoreapp2.2\ClassSample.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ClassSample\obj\Debug\netcoreapp2.2\ClassSample.csprojAssemblyReference.cache

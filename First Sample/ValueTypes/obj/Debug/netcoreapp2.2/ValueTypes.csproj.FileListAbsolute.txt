@@ -9,3 +9,14 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ValueTypes\obj\Debug\netcore
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.AssemblyInfo.cs
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\Fisrt Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\bin\Debug\netcoreapp2.2\ValueTypes.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\bin\Debug\netcoreapp2.2\ValueTypes.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\bin\Debug\netcoreapp2.2\ValueTypes.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\bin\Debug\netcoreapp2.2\ValueTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\bin\Debug\netcoreapp2.2\ValueTypes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\First Sample\ValueTypes\obj\Debug\netcoreapp2.2\ValueTypes.pdb
