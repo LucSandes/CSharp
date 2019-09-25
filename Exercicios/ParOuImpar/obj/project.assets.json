@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\topdown\\source\\repos\\Exercicios\\ParOuImpar\\ParOuImpar.csproj",
+      "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\ParOuImpar\\ParOuImpar.csproj",
       "projectName": "ParOuImpar",
-      "projectPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\ParOuImpar\\ParOuImpar.csproj",
+      "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\ParOuImpar\\ParOuImpar.csproj",
       "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\ParOuImpar\\obj\\",
+      "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\ParOuImpar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

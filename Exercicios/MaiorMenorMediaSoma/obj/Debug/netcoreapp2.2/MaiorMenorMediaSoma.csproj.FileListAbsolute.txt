@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\bin\Debug\netcoreapp2.2\MaiorMenorMediaSoma.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\bin\Debug\netcoreapp2.2\MaiorMenorMediaSoma.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\bin\Debug\netcoreapp2.2\MaiorMenorMediaSoma.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\bin\Debug\netcoreapp2.2\MaiorMenorMediaSoma.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\bin\Debug\netcoreapp2.2\MaiorMenorMediaSoma.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaiorMenorMediaSoma\obj\Debug\netcoreapp2.2\MaiorMenorMediaSoma.csprojAssemblyReference.cache

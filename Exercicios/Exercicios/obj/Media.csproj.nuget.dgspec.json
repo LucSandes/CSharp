@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\Exercicios\\Media.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\Exercicios\\Media.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\Exercicios\\Media.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\Exercicios\\Media.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\source\\repos\\Exercicios\\Exercicios\\Media.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\Exercicios\\Media.csproj",
         "projectName": "Media",
-        "projectPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\Exercicios\\Media.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\Exercicios\\Media.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

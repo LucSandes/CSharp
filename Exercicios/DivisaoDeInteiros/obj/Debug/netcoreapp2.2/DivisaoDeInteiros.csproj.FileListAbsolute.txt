@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\bin\Debug\netcoreapp2.2\DivisaoDeInteiros.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\bin\Debug\netcoreapp2.2\DivisaoDeInteiros.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\bin\Debug\netcoreapp2.2\DivisaoDeInteiros.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\bin\Debug\netcoreapp2.2\DivisaoDeInteiros.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\bin\Debug\netcoreapp2.2\DivisaoDeInteiros.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.pdb

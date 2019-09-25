@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.pdb

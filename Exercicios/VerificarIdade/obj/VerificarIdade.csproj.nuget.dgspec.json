@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\VerificarIdade\\VerificarIdade.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\VerificarIdade\\VerificarIdade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\VerificarIdade\\VerificarIdade.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\VerificarIdade\\VerificarIdade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\source\\repos\\Exercicios\\VerificarIdade\\VerificarIdade.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\VerificarIdade\\VerificarIdade.csproj",
         "projectName": "VerificarIdade",
-        "projectPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\VerificarIdade\\VerificarIdade.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\VerificarIdade\\VerificarIdade.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\VerificarIdade\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\VerificarIdade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj": {}
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\topdown\\source\\repos\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj": {
+    "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\topdown\\source\\repos\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj",
+        "projectUniqueName": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj",
         "projectName": "SalarioAjustado",
-        "projectPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj",
+        "projectPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\SalarioAjustado\\SalarioAjustado.csproj",
         "packagesPath": "C:\\Users\\topdown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\topdown\\source\\repos\\Exercicios\\SalarioAjustado\\obj\\",
+        "outputPath": "C:\\Users\\topdown\\Desktop\\Estudo\\CSHarp\\CSharp\\Exercicios\\SalarioAjustado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
