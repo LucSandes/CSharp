@@ -1,0 +1,11 @@
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\bin\Debug\netcoreapp2.2\SalarioAjustado.deps.json
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\bin\Debug\netcoreapp2.2\SalarioAjustado.runtimeconfig.json
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\bin\Debug\netcoreapp2.2\SalarioAjustado.runtimeconfig.dev.json
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\bin\Debug\netcoreapp2.2\SalarioAjustado.dll
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\bin\Debug\netcoreapp2.2\SalarioAjustado.pdb
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.csprojAssemblyReference.cache
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.csproj.CoreCompileInputs.cache
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.AssemblyInfoInputs.cache
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.AssemblyInfo.cs
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.dll
+C:\Users\topdown\source\repos\Exercicios\SalarioAjustado\obj\Debug\netcoreapp2.2\SalarioAjustado.pdb

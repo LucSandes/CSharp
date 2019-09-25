@@ -36,6 +36,23 @@ namespace ClassSample
             }
         }
 
+        public int GetIdadeTwice()
+        {
+            int twice = this.idade * 2;
+            return twice;
+        }
+
+        //Metodo (void = chamar)
+        public void Limpar()
+        {
+            this.idade = 0;
+            this.nome = string.Empty;
+        }
+
+        private void GoAge()
+        {
+            this.idade = 21;
+        }
 
         //Destructor
         ~Aluno()

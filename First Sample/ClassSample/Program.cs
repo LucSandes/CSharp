@@ -4,6 +4,7 @@ namespace ClassSample
 {
     class Program
     {
+        //ponto de entrada de uma classe
         static void Main(string[] args)
         {
             Aluno a1 = new Aluno();
@@ -16,11 +17,14 @@ namespace ClassSample
             a2.Nome = "Amanda";
             a2.Idade = 25;
 
-
-            Console.ReadKey();
-
             Console.WriteLine(a1.Nome);
             Console.WriteLine(a3.Nome);
+            Console.WriteLine(a1.GetIdadeTwice());
+
+
+            Console.ReadKey(); 
+            a1.Limpar();
+            
         }
     }
 }

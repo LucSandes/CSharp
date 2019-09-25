@@ -1,0 +1,11 @@
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\bin\Debug\netcoreapp2.2\VerificarIdade.deps.json
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\bin\Debug\netcoreapp2.2\VerificarIdade.runtimeconfig.json
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\bin\Debug\netcoreapp2.2\VerificarIdade.runtimeconfig.dev.json
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\bin\Debug\netcoreapp2.2\VerificarIdade.dll
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\bin\Debug\netcoreapp2.2\VerificarIdade.pdb
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.csprojAssemblyReference.cache
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.csproj.CoreCompileInputs.cache
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.AssemblyInfoInputs.cache
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.AssemblyInfo.cs
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.dll
+C:\Users\topdown\source\repos\Exercicios\VerificarIdade\obj\Debug\netcoreapp2.2\VerificarIdade.pdb
