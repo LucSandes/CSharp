@@ -8,3 +8,4 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\D
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.AssemblyInfo.cs
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\DivisaoDeInteiros\obj\Debug\netcoreapp2.2\DivisaoDeInteiros.csprojAssemblyReference.cache

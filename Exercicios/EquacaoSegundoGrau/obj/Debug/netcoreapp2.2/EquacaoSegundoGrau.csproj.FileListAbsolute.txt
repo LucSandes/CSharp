@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\bin\Debug\netcoreapp2.2\EquacaoSegundoGrau.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\bin\Debug\netcoreapp2.2\EquacaoSegundoGrau.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\bin\Debug\netcoreapp2.2\EquacaoSegundoGrau.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\bin\Debug\netcoreapp2.2\EquacaoSegundoGrau.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\bin\Debug\netcoreapp2.2\EquacaoSegundoGrau.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\EquacaoSegundoGrau\obj\Debug\netcoreapp2.2\EquacaoSegundoGrau.csprojAssemblyReference.cache

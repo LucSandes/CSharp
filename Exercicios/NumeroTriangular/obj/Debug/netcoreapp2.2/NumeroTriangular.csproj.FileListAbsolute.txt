@@ -1,0 +1,3 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.AssemblyInfo.cs

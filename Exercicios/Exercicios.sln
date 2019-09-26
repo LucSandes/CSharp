@@ -11,13 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerificarIdade", "Verificar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalarioAjustado", "SalarioAjustado\SalarioAjustado.csproj", "{E78E020A-7E84-44D7-9905-1BC6281DF15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaDeInteiros", "SomaDeInteiros\SomaDeInteiros.csproj", "{DC98A56F-C97E-4E8C-8823-575948CDDE51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SomaDeInteiros", "SomaDeInteiros\SomaDeInteiros.csproj", "{DC98A56F-C97E-4E8C-8823-575948CDDE51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisaoDeInteiros", "DivisaoDeInteiros\DivisaoDeInteiros.csproj", "{126D39E4-E5B1-4975-8B30-7B1220537FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisaoDeInteiros", "DivisaoDeInteiros\DivisaoDeInteiros.csproj", "{126D39E4-E5B1-4975-8B30-7B1220537FA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorMenorMediaSoma", "MaiorMenorMediaSoma\MaiorMenorMediaSoma.csproj", "{0B1F32B3-1BE5-4F98-9F46-02B2FAC2044C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaiorMenorMediaSoma", "MaiorMenorMediaSoma\MaiorMenorMediaSoma.csproj", "{0B1F32B3-1BE5-4F98-9F46-02B2FAC2044C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulos", "Triangulos\Triangulos.csproj", "{C6AEFB92-F956-4220-A686-EFB9921251EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulos", "Triangulos\Triangulos.csproj", "{C6AEFB92-F956-4220-A686-EFB9921251EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroTriangular", "NumeroTriangular\NumeroTriangular.csproj", "{221A55CC-2ADA-4471-B275-B246D094B457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquacaoSegundoGrau", "EquacaoSegundoGrau\EquacaoSegundoGrau.csproj", "{8B1F8AFB-D72F-4BE6-9229-30689FC4E90F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{C6AEFB92-F956-4220-A686-EFB9921251EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6AEFB92-F956-4220-A686-EFB9921251EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6AEFB92-F956-4220-A686-EFB9921251EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221A55CC-2ADA-4471-B275-B246D094B457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221A55CC-2ADA-4471-B275-B246D094B457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221A55CC-2ADA-4471-B275-B246D094B457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221A55CC-2ADA-4471-B275-B246D094B457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1F8AFB-D72F-4BE6-9229-30689FC4E90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1F8AFB-D72F-4BE6-9229-30689FC4E90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1F8AFB-D72F-4BE6-9229-30689FC4E90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1F8AFB-D72F-4BE6-9229-30689FC4E90F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
