@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\bin\Debug\netcoreapp2.2\Divisores.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\bin\Debug\netcoreapp2.2\Divisores.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\bin\Debug\netcoreapp2.2\Divisores.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\bin\Debug\netcoreapp2.2\Divisores.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\bin\Debug\netcoreapp2.2\Divisores.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\Divisores\obj\Debug\netcoreapp2.2\Divisores.pdb
