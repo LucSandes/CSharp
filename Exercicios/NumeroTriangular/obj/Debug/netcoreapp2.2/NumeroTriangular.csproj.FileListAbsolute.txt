@@ -1,3 +1,11 @@
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.csproj.CoreCompileInputs.cache
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.AssemblyInfoInputs.cache
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\bin\Debug\netcoreapp2.2\NumeroTriangular.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\bin\Debug\netcoreapp2.2\NumeroTriangular.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\bin\Debug\netcoreapp2.2\NumeroTriangular.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\bin\Debug\netcoreapp2.2\NumeroTriangular.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\bin\Debug\netcoreapp2.2\NumeroTriangular.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroTriangular\obj\Debug\netcoreapp2.2\NumeroTriangular.pdb
