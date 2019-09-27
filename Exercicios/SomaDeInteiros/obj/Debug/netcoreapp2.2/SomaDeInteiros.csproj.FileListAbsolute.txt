@@ -8,3 +8,4 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\SomaDeInteiros\obj\Debu
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\SomaDeInteiros\obj\Debug\netcoreapp2.2\SomaDeInteiros.AssemblyInfo.cs
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\SomaDeInteiros\obj\Debug\netcoreapp2.2\SomaDeInteiros.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\SomaDeInteiros\obj\Debug\netcoreapp2.2\SomaDeInteiros.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\SomaDeInteiros\obj\Debug\netcoreapp2.2\SomaDeInteiros.csprojAssemblyReference.cache

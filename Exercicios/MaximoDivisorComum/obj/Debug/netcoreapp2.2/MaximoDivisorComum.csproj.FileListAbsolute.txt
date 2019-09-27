@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\bin\Debug\netcoreapp2.2\MaximoDivisorComum.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\bin\Debug\netcoreapp2.2\MaximoDivisorComum.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\bin\Debug\netcoreapp2.2\MaximoDivisorComum.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\bin\Debug\netcoreapp2.2\MaximoDivisorComum.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\bin\Debug\netcoreapp2.2\MaximoDivisorComum.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MaximoDivisorComum\obj\Debug\netcoreapp2.2\MaximoDivisorComum.csprojAssemblyReference.cache

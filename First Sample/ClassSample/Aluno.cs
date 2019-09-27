@@ -21,7 +21,17 @@ namespace ClassSample
         private int idade;
 
         //Properties
-        public string Nome { get; set; }
+        public string Nome
+        {
+            get
+            {
+                return nome;
+            }
+            set
+            {
+                nome = value;
+            }
+        }
 
         public int Idade
         {
@@ -40,6 +50,20 @@ namespace ClassSample
         {
             int twice = this.idade * 2;
             return twice;
+        }
+
+        public bool VerifyIdade(int _idade)
+        {
+            //bool verify = false;
+            //if (_idade > 18)
+            //    verify = true;
+            //else
+            //    verify = false;
+
+            //O mesmo que esse if de cima, mas reduzido
+            bool verify = (_idade >= 18) ? true : false;
+
+            return verify;
         }
 
         //Metodo (void = chamar)

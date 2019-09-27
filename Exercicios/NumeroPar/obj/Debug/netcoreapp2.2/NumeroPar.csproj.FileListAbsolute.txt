@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\bin\Debug\netcoreapp2.2\NumeroPar.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\bin\Debug\netcoreapp2.2\NumeroPar.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\bin\Debug\netcoreapp2.2\NumeroPar.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\bin\Debug\netcoreapp2.2\NumeroPar.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\bin\Debug\netcoreapp2.2\NumeroPar.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumeroPar\obj\Debug\netcoreapp2.2\NumeroPar.csprojAssemblyReference.cache

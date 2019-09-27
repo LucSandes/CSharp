@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\bin\Debug\netcoreapp2.2\NumerosPrimos.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\bin\Debug\netcoreapp2.2\NumerosPrimos.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\bin\Debug\netcoreapp2.2\NumerosPrimos.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\bin\Debug\netcoreapp2.2\NumerosPrimos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\bin\Debug\netcoreapp2.2\NumerosPrimos.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\NumerosPrimos\obj\Debug\netcoreapp2.2\NumerosPrimos.csprojAssemblyReference.cache

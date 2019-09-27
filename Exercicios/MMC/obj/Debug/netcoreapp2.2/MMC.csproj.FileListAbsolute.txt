@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\bin\Debug\netcoreapp2.2\MMC.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\bin\Debug\netcoreapp2.2\MMC.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\bin\Debug\netcoreapp2.2\MMC.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\bin\Debug\netcoreapp2.2\MMC.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\bin\Debug\netcoreapp2.2\MMC.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.pdb
