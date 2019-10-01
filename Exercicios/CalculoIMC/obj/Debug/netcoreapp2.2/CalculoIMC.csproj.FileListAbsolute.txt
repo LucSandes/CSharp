@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\bin\Debug\netcoreapp2.2\CalculoIMC.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\bin\Debug\netcoreapp2.2\CalculoIMC.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\bin\Debug\netcoreapp2.2\CalculoIMC.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\bin\Debug\netcoreapp2.2\CalculoIMC.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\bin\Debug\netcoreapp2.2\CalculoIMC.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\obj\Debug\netcoreapp2.2\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\obj\Debug\netcoreapp2.2\CalculoIMC.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\obj\Debug\netcoreapp2.2\CalculoIMC.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\obj\Debug\netcoreapp2.2\CalculoIMC.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\CalculoIMC\obj\Debug\netcoreapp2.2\CalculoIMC.pdb

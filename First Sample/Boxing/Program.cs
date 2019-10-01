@@ -14,12 +14,12 @@ namespace Boxing
             int b = (int)o;
 
             System.Type t = b.GetType();
-           
+
             //((int)o).
 
             Console.WriteLine(b);
 
-            
+
 
             Console.ReadKey();
         }

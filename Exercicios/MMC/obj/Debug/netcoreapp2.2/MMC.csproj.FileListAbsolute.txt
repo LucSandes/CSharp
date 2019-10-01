@@ -8,3 +8,4 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreap
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.AssemblyInfo.cs
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\MMC\obj\Debug\netcoreapp2.2\MMC.csprojAssemblyReference.cache

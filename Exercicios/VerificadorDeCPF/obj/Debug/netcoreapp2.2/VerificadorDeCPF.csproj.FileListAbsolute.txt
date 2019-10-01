@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\bin\Debug\netcoreapp2.2\VerificadorDeCPF.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\bin\Debug\netcoreapp2.2\VerificadorDeCPF.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\bin\Debug\netcoreapp2.2\VerificadorDeCPF.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\bin\Debug\netcoreapp2.2\VerificadorDeCPF.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\bin\Debug\netcoreapp2.2\VerificadorDeCPF.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Exercicios\VerificadorDeCPF\obj\Debug\netcoreapp2.2\VerificadorDeCPF.pdb
