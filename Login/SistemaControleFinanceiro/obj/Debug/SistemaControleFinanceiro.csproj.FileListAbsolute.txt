@@ -1,0 +1,12 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.Properties.Resources.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csproj.GenerateResource.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.exe.config
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.Login.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.telaPrincipal.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Login\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.ContaCliente.resources
