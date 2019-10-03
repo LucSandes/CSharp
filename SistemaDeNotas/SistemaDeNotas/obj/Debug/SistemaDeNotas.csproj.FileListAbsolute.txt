@@ -11,3 +11,10 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.pdb
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaMenu.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaMedia.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaAlunos.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaLoginAlunos.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaLoginFuncionarios.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaLoginProfessoresDirecao.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaDisciplinas.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaFuncionarios.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaProfessores.resources

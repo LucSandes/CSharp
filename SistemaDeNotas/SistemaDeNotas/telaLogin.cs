@@ -34,7 +34,7 @@ namespace SistemaDeNotas
 
         private void BotaoSair_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Close();
         }
 
         private void TextoSenha_TextChanged(object sender, EventArgs e)

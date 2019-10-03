@@ -239,6 +239,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.botaoVoltar);
             this.Name = "telaMedia";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Média";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
