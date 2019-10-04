@@ -1,11 +1,14 @@
 ﻿namespace SistemaDeNotas
 {
-    class Professores : Pessoa
+    class Professores : Funcionarios
     {
-        public string DataAdmisso { get; set; }
-        public string DataDemissao { get; set; }
         public int RegistroProfessor { get; set; }
         public string DisciplinaMinistrada { get; set; }
-        public double Salario { get; set; }
+
+        public override void ReceberSalario()
+        {
+            //faço minha forma
+        }
+
     }
 }

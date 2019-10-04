@@ -17,6 +17,9 @@ namespace SistemaDeNotas
 
         private void BotaoLogin_Click(object sender, EventArgs e)
         {
+            Pessoa pes = new Pessoa();
+            Professores prof = new Professores();
+            prof.ReceberSalario();
             if (textoUsuario.Text == "admin" && textoSenha.Text == "123")
             {
                 telaMenu telaMenu = new telaMenu();

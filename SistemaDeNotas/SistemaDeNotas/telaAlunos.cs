@@ -6,9 +6,21 @@ namespace SistemaDeNotas
 {
     public partial class telaAlunos : Form
     {
+        List<Alunos> listaAlunos = new List<Alunos>();
         public telaAlunos()
         {
             InitializeComponent();
+        }
+
+        private void limparTextBoxes(Control.ControlCollection controles)
+        {
+            foreach (Control ctrl in controles)
+            {
+                if (ctrl is TextBox)
+                {
+                    ((TextBox)(ctrl)).Text = String.Empty;
+                }
+            }
         }
 
         private void BotaoVoltar_Click(object sender, EventArgs e)
@@ -28,12 +40,21 @@ namespace SistemaDeNotas
 
         private void BotaoPesquisarAluno_Click(object sender, EventArgs e)
         {
-
+            if (textoTelaAlunos.Text != string.Empty)
+            {
+                telaPesquisaAlunos telaPesquisaAlunos = new telaPesquisaAlunos();
+                telaPesquisaAlunos.ShowDialog();
+            }
+            else
+                MessageBox.Show("Digite o nome de algum aluno!");
         }
 
         private void BotaoAdicionarAluno_Click(object sender, EventArgs e)
         {
+            if (grupoDados.)
+            {
 
+            }
         }
 
         private void BotaoAlterarAluno_Click(object sender, EventArgs e)
@@ -45,25 +66,23 @@ namespace SistemaDeNotas
         {
             foreach (Control c in this.Controls)
             {
-                //if (c.GetType().ToString() == "System.Windows.Form.Textbox")
-                //{
-                //    c.Text = "";
-                //}
-                textBox2.Text = string.Empty;
-                textBox3.Text = string.Empty;
-                textBox4.Text = string.Empty;
-                textBox5.Text = string.Empty;
-                textBox6.Text = string.Empty;
-                textBox7.Text = string.Empty;
-                textBox8.Text = string.Empty;
-                textBox9.Text = string.Empty;
-                textBox10.Text = string.Empty;
-                textBox11.Text = string.Empty;
-                textBox12.Text = string.Empty;
+                limparTextBoxes(this.Controls);
             }
         }
 
+        private void TelaAlunos_Load(object sender, EventArgs e)
+        {
+            //listaAlunos  = new Alunos[];
+
+            //listaAlunos.Add = new Alunos();
+        }
+
         private void TextoTelaAlunos_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextBox11_TextChanged(object sender, EventArgs e)
         {
 
         }

@@ -18,3 +18,4 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaDisciplinas.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaFuncionarios.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaProfessores.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaPesquisaAlunos.resources

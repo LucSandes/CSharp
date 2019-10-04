@@ -26,5 +26,10 @@ namespace SistemaDeNotas
         {
             this.Close();
         }
+
+        private void TelaLoginProfessoresDirecao_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

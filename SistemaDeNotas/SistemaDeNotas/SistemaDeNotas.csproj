@@ -113,6 +113,12 @@
     <Compile Include="telaMenu.Designer.cs">
       <DependentUpon>telaMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="telaPesquisaAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPesquisaAlunos.Designer.cs">
+      <DependentUpon>telaPesquisaAlunos.cs</DependentUpon>
+    </Compile>
     <Compile Include="telaProfessores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -158,6 +164,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="telaMenu.resx">
       <DependentUpon>telaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPesquisaAlunos.resx">
+      <DependentUpon>telaPesquisaAlunos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="telaProfessores.resx">
       <DependentUpon>telaProfessores.cs</DependentUpon>

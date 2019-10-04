@@ -21,5 +21,10 @@ namespace SistemaDeNotas
         {
             this.Close();
         }
+
+        private void TelaLoginFuncionarios_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

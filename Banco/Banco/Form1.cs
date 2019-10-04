@@ -129,5 +129,10 @@ namespace Banco
             FormCadastroConta formularioDeCadastro = new FormCadastroConta(this);
             formularioDeCadastro.ShowDialog();
         }
+
+        private void GroupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

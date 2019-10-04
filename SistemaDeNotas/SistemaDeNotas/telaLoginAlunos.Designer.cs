@@ -122,6 +122,7 @@
             this.Name = "telaLoginAlunos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "telaLoginAlunos";
+            this.Load += new System.EventHandler(this.TelaLoginAlunos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

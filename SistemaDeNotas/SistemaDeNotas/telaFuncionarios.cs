@@ -16,8 +16,24 @@ namespace SistemaDeNotas
         {
             InitializeComponent();
         }
+        private void limparTextBoxes(Control.ControlCollection controles)
+        {
+            foreach (Control ctrl in controles)
+            {
+                if (ctrl is TextBox)
+                {
+                    ((TextBox)(ctrl)).Text = String.Empty;
+                }
+            }
+        }
+
 
         private void Label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TelaFuncionarios_Load(object sender, EventArgs e)
         {
 
         }

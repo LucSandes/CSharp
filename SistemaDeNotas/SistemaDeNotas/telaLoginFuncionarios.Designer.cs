@@ -122,6 +122,7 @@
             this.Name = "telaLoginFuncionarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "telaLoginFuncionarios";
+            this.Load += new System.EventHandler(this.TelaLoginFuncionarios_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

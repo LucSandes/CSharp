@@ -10,6 +10,17 @@ namespace SistemaDeNotas
             InitializeComponent();
         }
 
+        private void limparTextBoxes(Control.ControlCollection controles)
+        {
+            foreach (Control ctrl in controles)
+            {
+                if (ctrl is TextBox)
+                {
+                    ((TextBox)(ctrl)).Text = String.Empty;//limparTextBoxes(this.Controls);
+                }
+            }
+        }
+
         private void BotaoVoltar_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -17,13 +28,14 @@ namespace SistemaDeNotas
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            textoNota1.Text = String.Empty;
-            textoNota2.Text = String.Empty;
-            textoNota3.Text = String.Empty;
-            textoNota4.Text = String.Empty;
-            textoMedia.Text = String.Empty;
-            textoMenor.Text = String.Empty;
-            textoMaior.Text = String.Empty;
+            limparTextBoxes(this.Controls);
+            //textoNota1.Text = String.Empty;
+            //textoNota2.Text = String.Empty;
+            //textoNota3.Text = String.Empty;
+            //textoNota4.Text = String.Empty;
+            //textoMedia.Text = String.Empty;
+            //textoMenor.Text = String.Empty;
+            //textoMaior.Text = String.Empty;
         }
 
         private void BotaoMedia_Click(object sender, EventArgs e)
@@ -79,6 +91,11 @@ namespace SistemaDeNotas
         }
 
         private void TextoMedia_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TelaMedia_Load(object sender, EventArgs e)
         {
 
         }

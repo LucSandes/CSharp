@@ -9,3 +9,11 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\Banco\Banco\obj\Debug\Banco.exe
 C:\Users\topdown\Desktop\Estudo\CSHarp\Banco\Banco\obj\Debug\Banco.pdb
 C:\Users\topdown\Desktop\Estudo\CSHarp\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
 C:\Users\topdown\Desktop\Estudo\CSHarp\Banco\Banco\obj\Debug\Banco.FormCadastroConta.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.FormCadastroConta.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\Banco\Banco\obj\Debug\Banco.pdb
