@@ -6,10 +6,18 @@ namespace SistemaDeNotas
 {
     public partial class telaAlunos : Form
     {
-        List<Alunos> listaAlunos = new List<Alunos>();
+        private Alunos[] novosAlunos;
+        private int numeroDeAlunos;
         public telaAlunos()
         {
             InitializeComponent();
+        }
+
+        public void AdicionaAlunos(Alunos alunos)
+        {
+            this.novosAlunos[this.numeroDeAlunos] = alunos;
+            this.numeroDeAlunos++;
+            comboAlunos.Items.Add("nome: " + alunos.Nome);
         }
 
         private void limparTextBoxes(Control.ControlCollection controles)
@@ -40,21 +48,31 @@ namespace SistemaDeNotas
 
         private void BotaoPesquisarAluno_Click(object sender, EventArgs e)
         {
-            if (textoTelaAlunos.Text != string.Empty)
+
+            if (textoPesquisaAluno.Text != string.Empty)
             {
                 telaPesquisaAlunos telaPesquisaAlunos = new telaPesquisaAlunos();
-                telaPesquisaAlunos.ShowDialog();
+                telaPesquisaAlunos.Propriedade = textoPesquisaAluno.Text;
+                telaPesquisaAlunos.Show();
             }
             else
                 MessageBox.Show("Digite o nome de algum aluno!");
+
+
+        }
+        private void GrupoDados_Enter(object sender, EventArgs e)
+        {
+
         }
 
         private void BotaoAdicionarAluno_Click(object sender, EventArgs e)
         {
-            if (grupoDados.)
-            {
-
-            }
+            telaAdicionarAluno telaAdicionarAlunos = new telaAdicionarAluno();
+            telaAdicionarAlunos.Show();
+            //if (this.Controls.OfType<TextBox>().Any(f => string.IsNullOrEmpty(f.Text)))
+            //{
+            //    MessageBox.Show("É necessario preencher todos os campos.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            //}
         }
 
         private void BotaoAlterarAluno_Click(object sender, EventArgs e)
@@ -64,9 +82,9 @@ namespace SistemaDeNotas
 
         private void BotaoLimparAluno_Click(object sender, EventArgs e)
         {
-            foreach (Control c in this.Controls)
+            foreach (Control c in Controls)
             {
-                limparTextBoxes(this.Controls);
+                limparTextBoxes(Controls);
             }
         }
 

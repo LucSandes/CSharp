@@ -23,7 +23,6 @@ namespace SistemaDeNotas
         {
             telaLogin telaLogin = new telaLogin();
             telaLogin.ShowDialog();
-
         }
 
         private void BotaoAlunos_Click(object sender, EventArgs e)

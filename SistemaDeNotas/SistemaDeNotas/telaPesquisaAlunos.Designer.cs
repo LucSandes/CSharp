@@ -94,6 +94,7 @@
             // 
             this.teztoRaAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.teztoRaAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.teztoRaAluno.Enabled = false;
             this.teztoRaAluno.ForeColor = System.Drawing.Color.White;
             this.teztoRaAluno.Location = new System.Drawing.Point(417, 143);
             this.teztoRaAluno.Name = "teztoRaAluno";
@@ -104,6 +105,7 @@
             // 
             this.textoDataMatriculaAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoDataMatriculaAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoDataMatriculaAluno.Enabled = false;
             this.textoDataMatriculaAluno.ForeColor = System.Drawing.Color.White;
             this.textoDataMatriculaAluno.Location = new System.Drawing.Point(503, 111);
             this.textoDataMatriculaAluno.Name = "textoDataMatriculaAluno";
@@ -114,6 +116,7 @@
             // 
             this.textoEstadoAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoEstadoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEstadoAluno.Enabled = false;
             this.textoEstadoAluno.ForeColor = System.Drawing.Color.White;
             this.textoEstadoAluno.Location = new System.Drawing.Point(432, 79);
             this.textoEstadoAluno.Name = "textoEstadoAluno";
@@ -124,6 +127,7 @@
             // 
             this.textoCidadeAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoCidadeAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoCidadeAluno.Enabled = false;
             this.textoCidadeAluno.ForeColor = System.Drawing.Color.White;
             this.textoCidadeAluno.Location = new System.Drawing.Point(432, 50);
             this.textoCidadeAluno.Name = "textoCidadeAluno";
@@ -134,6 +138,7 @@
             // 
             this.textoNacionalidadeAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoNacionalidadeAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoNacionalidadeAluno.Enabled = false;
             this.textoNacionalidadeAluno.ForeColor = System.Drawing.Color.White;
             this.textoNacionalidadeAluno.Location = new System.Drawing.Point(481, 19);
             this.textoNacionalidadeAluno.Name = "textoNacionalidadeAluno";
@@ -144,6 +149,7 @@
             // 
             this.textoCursoAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoCursoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoCursoAluno.Enabled = false;
             this.textoCursoAluno.ForeColor = System.Drawing.Color.White;
             this.textoCursoAluno.Location = new System.Drawing.Point(58, 170);
             this.textoCursoAluno.Name = "textoCursoAluno";
@@ -154,6 +160,7 @@
             // 
             this.textoEmailAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoEmailAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEmailAluno.Enabled = false;
             this.textoEmailAluno.ForeColor = System.Drawing.Color.White;
             this.textoEmailAluno.Location = new System.Drawing.Point(73, 143);
             this.textoEmailAluno.Name = "textoEmailAluno";
@@ -164,6 +171,7 @@
             // 
             this.textoTelefoneAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoTelefoneAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoTelefoneAluno.Enabled = false;
             this.textoTelefoneAluno.ForeColor = System.Drawing.Color.White;
             this.textoTelefoneAluno.Location = new System.Drawing.Point(81, 111);
             this.textoTelefoneAluno.Name = "textoTelefoneAluno";
@@ -174,8 +182,9 @@
             // 
             this.textoEnderecoAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoEnderecoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEnderecoAluno.Enabled = false;
             this.textoEnderecoAluno.ForeColor = System.Drawing.Color.White;
-            this.textoEnderecoAluno.Location = new System.Drawing.Point(76, 79);
+            this.textoEnderecoAluno.Location = new System.Drawing.Point(81, 82);
             this.textoEnderecoAluno.Name = "textoEnderecoAluno";
             this.textoEnderecoAluno.Size = new System.Drawing.Size(301, 13);
             this.textoEnderecoAluno.TabIndex = 21;
@@ -184,8 +193,9 @@
             // 
             this.textoDataAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoDataAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoDataAluno.Enabled = false;
             this.textoDataAluno.ForeColor = System.Drawing.Color.White;
-            this.textoDataAluno.Location = new System.Drawing.Point(146, 50);
+            this.textoDataAluno.Location = new System.Drawing.Point(146, 53);
             this.textoDataAluno.Name = "textoDataAluno";
             this.textoDataAluno.Size = new System.Drawing.Size(231, 13);
             this.textoDataAluno.TabIndex = 20;
@@ -194,11 +204,13 @@
             // 
             this.textoNomeAluno.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.textoNomeAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoNomeAluno.Enabled = false;
             this.textoNomeAluno.ForeColor = System.Drawing.Color.White;
-            this.textoNomeAluno.Location = new System.Drawing.Point(58, 19);
+            this.textoNomeAluno.Location = new System.Drawing.Point(58, 22);
             this.textoNomeAluno.Name = "textoNomeAluno";
             this.textoNomeAluno.Size = new System.Drawing.Size(319, 13);
             this.textoNomeAluno.TabIndex = 19;
+            this.textoNomeAluno.TextChanged += new System.EventHandler(this.TextoNomeAluno_TextChanged);
             // 
             // label12
             // 

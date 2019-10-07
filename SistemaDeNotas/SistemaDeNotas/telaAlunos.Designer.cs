@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.TextBox textoCidadeAluno;
             this.botaoVoltar = new System.Windows.Forms.Button();
             this.botaoPesquisarAluno = new System.Windows.Forms.Button();
             this.botaoAdicionarAluno = new System.Windows.Forms.Button();
@@ -47,22 +48,29 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textoTelaAlunos = new System.Windows.Forms.TextBox();
+            this.textoNomeAluno = new System.Windows.Forms.TextBox();
+            this.textoDataNascimentoAluno = new System.Windows.Forms.TextBox();
+            this.textoEnderecoAluno = new System.Windows.Forms.TextBox();
+            this.textoTelefoneAluno = new System.Windows.Forms.TextBox();
+            this.textoEmailAluno = new System.Windows.Forms.TextBox();
+            this.textoCursoAluno = new System.Windows.Forms.TextBox();
+            this.textoCpfAluno = new System.Windows.Forms.TextBox();
+            this.textoEstadoAluno = new System.Windows.Forms.TextBox();
+            this.textoDataMatriculaAluno = new System.Windows.Forms.TextBox();
+            this.textoRegistroAluno = new System.Windows.Forms.TextBox();
             this.grupoDados = new System.Windows.Forms.GroupBox();
+            this.comboAlunos = new System.Windows.Forms.ComboBox();
+            textoCidadeAluno = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.grupoDados.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // textoCidadeAluno
+            // 
+            textoCidadeAluno.Location = new System.Drawing.Point(432, 50);
+            textoCidadeAluno.Name = "textoCidadeAluno";
+            textoCidadeAluno.Size = new System.Drawing.Size(272, 20);
+            textoCidadeAluno.TabIndex = 26;
             // 
             // botaoVoltar
             // 
@@ -235,9 +243,9 @@
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(383, 22);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(92, 13);
+            this.label8.Size = new System.Drawing.Size(34, 13);
             this.label8.TabIndex = 14;
-            this.label8.Text = "Nacionalidade:";
+            this.label8.Text = "CPF:";
             // 
             // label9
             // 
@@ -283,106 +291,91 @@
             this.label12.TabIndex = 18;
             this.label12.Text = "RA:";
             // 
-            // textBox2
+            // textoNomeAluno
             // 
-            this.textBox2.Location = new System.Drawing.Point(58, 19);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(319, 20);
-            this.textBox2.TabIndex = 19;
+            this.textoNomeAluno.Location = new System.Drawing.Point(58, 19);
+            this.textoNomeAluno.Name = "textoNomeAluno";
+            this.textoNomeAluno.Size = new System.Drawing.Size(319, 20);
+            this.textoNomeAluno.TabIndex = 19;
             // 
-            // textBox3
+            // textoDataNascimentoAluno
             // 
-            this.textBox3.Location = new System.Drawing.Point(146, 50);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(231, 20);
-            this.textBox3.TabIndex = 20;
+            this.textoDataNascimentoAluno.Location = new System.Drawing.Point(146, 50);
+            this.textoDataNascimentoAluno.Name = "textoDataNascimentoAluno";
+            this.textoDataNascimentoAluno.Size = new System.Drawing.Size(231, 20);
+            this.textoDataNascimentoAluno.TabIndex = 20;
             // 
-            // textBox4
+            // textoEnderecoAluno
             // 
-            this.textBox4.Location = new System.Drawing.Point(76, 79);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(301, 20);
-            this.textBox4.TabIndex = 21;
+            this.textoEnderecoAluno.Location = new System.Drawing.Point(76, 79);
+            this.textoEnderecoAluno.Name = "textoEnderecoAluno";
+            this.textoEnderecoAluno.Size = new System.Drawing.Size(301, 20);
+            this.textoEnderecoAluno.TabIndex = 21;
             // 
-            // textBox5
+            // textoTelefoneAluno
             // 
-            this.textBox5.Location = new System.Drawing.Point(81, 111);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(296, 20);
-            this.textBox5.TabIndex = 22;
-            this.textBox5.TextChanged += new System.EventHandler(this.TextBox5_TextChanged);
+            this.textoTelefoneAluno.Location = new System.Drawing.Point(81, 111);
+            this.textoTelefoneAluno.Name = "textoTelefoneAluno";
+            this.textoTelefoneAluno.Size = new System.Drawing.Size(296, 20);
+            this.textoTelefoneAluno.TabIndex = 22;
+            this.textoTelefoneAluno.TextChanged += new System.EventHandler(this.TextBox5_TextChanged);
             // 
-            // textBox6
+            // textoEmailAluno
             // 
-            this.textBox6.Location = new System.Drawing.Point(73, 143);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(304, 20);
-            this.textBox6.TabIndex = 23;
+            this.textoEmailAluno.Location = new System.Drawing.Point(73, 143);
+            this.textoEmailAluno.Name = "textoEmailAluno";
+            this.textoEmailAluno.Size = new System.Drawing.Size(304, 20);
+            this.textoEmailAluno.TabIndex = 23;
             // 
-            // textBox7
+            // textoCursoAluno
             // 
-            this.textBox7.Location = new System.Drawing.Point(58, 170);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(319, 20);
-            this.textBox7.TabIndex = 24;
+            this.textoCursoAluno.Location = new System.Drawing.Point(58, 170);
+            this.textoCursoAluno.Name = "textoCursoAluno";
+            this.textoCursoAluno.Size = new System.Drawing.Size(319, 20);
+            this.textoCursoAluno.TabIndex = 24;
             // 
-            // textBox8
+            // textoCpfAluno
             // 
-            this.textBox8.Location = new System.Drawing.Point(481, 19);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(223, 20);
-            this.textBox8.TabIndex = 25;
+            this.textoCpfAluno.Location = new System.Drawing.Point(417, 19);
+            this.textoCpfAluno.Name = "textoCpfAluno";
+            this.textoCpfAluno.Size = new System.Drawing.Size(287, 20);
+            this.textoCpfAluno.TabIndex = 25;
             // 
-            // textBox9
+            // textoEstadoAluno
             // 
-            this.textBox9.Location = new System.Drawing.Point(432, 50);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(272, 20);
-            this.textBox9.TabIndex = 26;
+            this.textoEstadoAluno.Location = new System.Drawing.Point(432, 79);
+            this.textoEstadoAluno.Name = "textoEstadoAluno";
+            this.textoEstadoAluno.Size = new System.Drawing.Size(272, 20);
+            this.textoEstadoAluno.TabIndex = 27;
             // 
-            // textBox10
+            // textoDataMatriculaAluno
             // 
-            this.textBox10.Location = new System.Drawing.Point(432, 79);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(272, 20);
-            this.textBox10.TabIndex = 27;
+            this.textoDataMatriculaAluno.Location = new System.Drawing.Point(503, 111);
+            this.textoDataMatriculaAluno.Name = "textoDataMatriculaAluno";
+            this.textoDataMatriculaAluno.Size = new System.Drawing.Size(201, 20);
+            this.textoDataMatriculaAluno.TabIndex = 28;
+            this.textoDataMatriculaAluno.TextChanged += new System.EventHandler(this.TextBox11_TextChanged);
             // 
-            // textBox11
+            // textoRegistroAluno
             // 
-            this.textBox11.Location = new System.Drawing.Point(503, 111);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(201, 20);
-            this.textBox11.TabIndex = 28;
-            this.textBox11.TextChanged += new System.EventHandler(this.TextBox11_TextChanged);
-            // 
-            // textBox12
-            // 
-            this.textBox12.Location = new System.Drawing.Point(417, 143);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(287, 20);
-            this.textBox12.TabIndex = 29;
-            // 
-            // textoTelaAlunos
-            // 
-            this.textoTelaAlunos.Location = new System.Drawing.Point(219, 16);
-            this.textoTelaAlunos.Name = "textoTelaAlunos";
-            this.textoTelaAlunos.Size = new System.Drawing.Size(313, 20);
-            this.textoTelaAlunos.TabIndex = 30;
-            this.textoTelaAlunos.TextChanged += new System.EventHandler(this.TextoTelaAlunos_TextChanged);
+            this.textoRegistroAluno.Location = new System.Drawing.Point(417, 143);
+            this.textoRegistroAluno.Name = "textoRegistroAluno";
+            this.textoRegistroAluno.Size = new System.Drawing.Size(287, 20);
+            this.textoRegistroAluno.TabIndex = 29;
             // 
             // grupoDados
             // 
-            this.grupoDados.Controls.Add(this.textBox12);
-            this.grupoDados.Controls.Add(this.textBox11);
-            this.grupoDados.Controls.Add(this.textBox10);
-            this.grupoDados.Controls.Add(this.textBox9);
-            this.grupoDados.Controls.Add(this.textBox8);
-            this.grupoDados.Controls.Add(this.textBox7);
-            this.grupoDados.Controls.Add(this.textBox6);
-            this.grupoDados.Controls.Add(this.textBox5);
-            this.grupoDados.Controls.Add(this.textBox4);
-            this.grupoDados.Controls.Add(this.textBox3);
-            this.grupoDados.Controls.Add(this.textBox2);
+            this.grupoDados.Controls.Add(this.textoRegistroAluno);
+            this.grupoDados.Controls.Add(this.textoDataMatriculaAluno);
+            this.grupoDados.Controls.Add(this.textoEstadoAluno);
+            this.grupoDados.Controls.Add(textoCidadeAluno);
+            this.grupoDados.Controls.Add(this.textoCpfAluno);
+            this.grupoDados.Controls.Add(this.textoCursoAluno);
+            this.grupoDados.Controls.Add(this.textoEmailAluno);
+            this.grupoDados.Controls.Add(this.textoTelefoneAluno);
+            this.grupoDados.Controls.Add(this.textoEnderecoAluno);
+            this.grupoDados.Controls.Add(this.textoDataNascimentoAluno);
+            this.grupoDados.Controls.Add(this.textoNomeAluno);
             this.grupoDados.Controls.Add(this.label12);
             this.grupoDados.Controls.Add(this.label11);
             this.grupoDados.Controls.Add(this.label10);
@@ -402,6 +395,15 @@
             this.grupoDados.TabIndex = 31;
             this.grupoDados.TabStop = false;
             this.grupoDados.Text = "Dados";
+            this.grupoDados.Enter += new System.EventHandler(this.GrupoDados_Enter);
+            // 
+            // comboAlunos
+            // 
+            this.comboAlunos.FormattingEnabled = true;
+            this.comboAlunos.Location = new System.Drawing.Point(208, 16);
+            this.comboAlunos.Name = "comboAlunos";
+            this.comboAlunos.Size = new System.Drawing.Size(326, 21);
+            this.comboAlunos.TabIndex = 32;
             // 
             // telaAlunos
             // 
@@ -409,8 +411,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(747, 346);
+            this.Controls.Add(this.comboAlunos);
             this.Controls.Add(this.grupoDados);
-            this.Controls.Add(this.textoTelaAlunos);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.botaoPesquisarAluno);
@@ -447,19 +449,18 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.TextBox textoNomeAluno;
+        private System.Windows.Forms.TextBox textoDataNascimentoAluno;
+        private System.Windows.Forms.TextBox textoEnderecoAluno;
+        private System.Windows.Forms.TextBox textoTelefoneAluno;
+        private System.Windows.Forms.TextBox textoEmailAluno;
+        private System.Windows.Forms.TextBox textoCursoAluno;
+        private System.Windows.Forms.TextBox textoCpfAluno;
+        private System.Windows.Forms.TextBox textoEstadoAluno;
+        private System.Windows.Forms.TextBox textoDataMatriculaAluno;
+        private System.Windows.Forms.TextBox textoRegistroAluno;
         private System.Windows.Forms.Button botaoLimparAluno;
-        private System.Windows.Forms.TextBox textoTelaAlunos;
         private System.Windows.Forms.GroupBox grupoDados;
+        private System.Windows.Forms.ComboBox comboAlunos;
     }
 }

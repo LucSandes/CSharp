@@ -4,8 +4,10 @@ using System.Text;
 
 namespace SistemaDeNotas
 {
-    class Pessoa
+    public class Alunos
     {
+        private string text;
+
         public string Nome { get; set; }
         public string DataNascimento { get; set; }
         public string Endereco { get; set; }

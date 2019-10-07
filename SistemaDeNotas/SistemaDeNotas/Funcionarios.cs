@@ -1,6 +1,6 @@
 ﻿namespace SistemaDeNotas
 {
-    class Funcionarios : Pessoa
+    class Funcionarios : Alunos
     {
         public string DataAdmissao { get; set; }
         public string DataDemissao { get; set; }
