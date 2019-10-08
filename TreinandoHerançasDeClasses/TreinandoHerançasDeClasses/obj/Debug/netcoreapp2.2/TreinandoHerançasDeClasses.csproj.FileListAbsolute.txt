@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\bin\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\bin\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\bin\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\bin\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\bin\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\TreinandoHerançasDeClasses\obj\Debug\netcoreapp2.2\TreinandoHerançasDeClasses.pdb

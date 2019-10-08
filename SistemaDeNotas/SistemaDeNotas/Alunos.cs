@@ -2,46 +2,13 @@
 
 namespace SistemaDeNotas
 {
-    public class Alunos : Alunos
-    {
-        Alunos[] ListaAlunos = new Alunos[5];
-
-        public Alunos()
-        {
-        }
-
-        public Alunos(string _nome)
-        {
-            this.Nome = _nome;
-        }
-
-        public Alunos(Alunos[] listaAlunos, string curso, string dataMatricula, int registroAluno, 
-                      string text, string nome, string dataNascimento, string endereco, string telefone, 
-                      string email, string cpf, string cidade, string estado)
-        {
-            ListaAlunos = listaAlunos;
-            Curso = curso;
-            DataMatricula = dataMatricula;
-            RegistroAluno = registroAluno;
-            this.text = text;
-            Nome = nome;
-            DataNascimento = dataNascimento;
-            Endereco = endereco;
-            Telefone = telefone;
-            Email = email;
-            Cpf = cpf;
-            Cidade = cidade;
-            Estado = estado;
-        }
+    public class Alunos : Pessoa
+    { 
 
         public string Curso { get; set; }
         public string DataMatricula { get; set; }
         public int RegistroAluno { get; set; }
 
-        public static implicit operator string(Alunos v)
-        {
-            throw new NotImplementedException();
-        }
         // public Pessoa pessoa { }
 
         //public Alunos(string nome, string DataNascimento, string Endereco, string telefone, string Email,

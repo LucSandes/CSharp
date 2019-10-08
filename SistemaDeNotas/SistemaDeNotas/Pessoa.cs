@@ -4,18 +4,24 @@ using System.Text;
 
 namespace SistemaDeNotas
 {
-    public class Alunos
+    public class Pessoa
     {
-        private string text;
-
-        public string Nome { get; set; }
-        public string DataNascimento { get; set; }
-        public string Endereco { get; set; }
-        public string Telefone { get; set; }
-        public string Email { get; set; }
-        public string Cpf { get; set; }
-        public string Cidade { get; set; }
-        public string Estado { get; set; }
+        public string nome;
+        public string dataNascimento;
+        public string endereco;
+        public string telefone;
+        public string email;
+        public string cpf;
+        public string cidade;
+        public string estado;
+        public string Nome { get => nome; set => nome = value; }
+        public string DataNascimento { get => dataNascimento; set => dataNascimento = value; }
+        public string Endereco { get => endereco; set => endereco = value; }
+        public string Telefone { get => telefone; set => telefone = value; }
+        public string Email { get => email; set => email = value; }
+        public string Cpf { get => cpf; set => cpf = value; }
+        public string Cidade { get => cidade; set => cidade = value; }
+        public string Estado { get => estado; set => estado = value; }
 
         //public Pessoa(string _nome, string _dataNascimento, string _endereco, string _telefone,
         //              string _email, string _cpf, string _cidade, string _estado)

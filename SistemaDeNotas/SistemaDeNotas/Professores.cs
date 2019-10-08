@@ -1,14 +1,22 @@
 ﻿namespace SistemaDeNotas
 {
-    class Professores : Funcionarios
+    public class Professores : Funcionarios
     {
-        public int RegistroProfessor { get; set; }
-        public string DisciplinaMinistrada { get; set; }
+        public int registroProfessor;
+        public string disciplinaMinistrada;
+
+        public int RegistroProfessor
+        {
+            get => registroProfessor; set => registroProfessor = value;
+        }
+        public string DisciplinaMinistrada
+        {
+            get => disciplinaMinistrada; set => disciplinaMinistrada = value;
+        }
 
         public override void ReceberSalario()
         {
-            //faço minha forma
+            //sobrescrever a forma de receber salário
         }
-
     }
 }
