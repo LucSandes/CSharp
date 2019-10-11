@@ -9,7 +9,6 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\bin\
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\bin\Debug\SistemaDeNotas.pdb
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.exe
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.pdb
-C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaMenu.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaMedia.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaAlunos.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaLoginAlunos.resources
@@ -20,3 +19,6 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaProfessores.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaPesquisaAlunos.resources
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaAdicionarAluno.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.telaMenuAdm.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.Aluno.telaAlterarAluno.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\SistemaDeNotas\SistemaDeNotas\obj\Debug\SistemaDeNotas.Aluno.telaMenuAluno.resources

@@ -46,65 +46,78 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alunos.cs" />
-    <Compile Include="Disciplinas.cs" />
+    <Compile Include="Aluno\Alunos.cs" />
+    <Compile Include="Aluno\telaAlterarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aluno\telaAlterarAluno.Designer.cs">
+      <DependentUpon>telaAlterarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aluno\telaMenuAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aluno\telaMenuAluno.Designer.cs">
+      <DependentUpon>telaMenuAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplinas\Cursos.cs" />
+    <Compile Include="Disciplinas\Disciplinas.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Funcionarios.cs" />
-    <Compile Include="Pessoa.cs" />
-    <Compile Include="Professores.cs" />
+    <Compile Include="Funcionarios\Funcionarios.cs" />
+    <Compile Include="Admin\Pessoa.cs" />
+    <Compile Include="Professores\Professores.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="telaAdicionarAluno.cs">
+    <Compile Include="Aluno\telaAdicionarAluno.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaAdicionarAluno.Designer.cs">
+    <Compile Include="Aluno\telaAdicionarAluno.Designer.cs">
       <DependentUpon>telaAdicionarAluno.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaAlunos.cs">
+    <Compile Include="Aluno\telaAlunos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaAlunos.Designer.cs">
+    <Compile Include="Aluno\telaAlunos.Designer.cs">
       <DependentUpon>telaAlunos.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaDisciplinas.cs">
+    <Compile Include="Disciplinas\telaDisciplinas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaDisciplinas.Designer.cs">
+    <Compile Include="Disciplinas\telaDisciplinas.Designer.cs">
       <DependentUpon>telaDisciplinas.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaFuncionarios.cs">
+    <Compile Include="Professores\telaFuncionarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaFuncionarios.Designer.cs">
+    <Compile Include="Professores\telaFuncionarios.Designer.cs">
       <DependentUpon>telaFuncionarios.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaLogin.cs">
+    <Compile Include="Admin\telaLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaLogin.Designer.cs">
+    <Compile Include="Admin\telaLogin.Designer.cs">
       <DependentUpon>telaLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaLoginAlunos.cs">
+    <Compile Include="Aluno\telaLoginAlunos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaLoginAlunos.Designer.cs">
+    <Compile Include="Aluno\telaLoginAlunos.Designer.cs">
       <DependentUpon>telaLoginAlunos.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaLoginFuncionarios.cs">
+    <Compile Include="Funcionarios\telaLoginFuncionarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaLoginFuncionarios.Designer.cs">
+    <Compile Include="Funcionarios\telaLoginFuncionarios.Designer.cs">
       <DependentUpon>telaLoginFuncionarios.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaLoginProfessoresDirecao.cs">
+    <Compile Include="Professores\telaLoginProfessoresDirecao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaLoginProfessoresDirecao.Designer.cs">
+    <Compile Include="Professores\telaLoginProfessoresDirecao.Designer.cs">
       <DependentUpon>telaLoginProfessoresDirecao.cs</DependentUpon>
     </Compile>
     <Compile Include="telaMedia.cs">
@@ -113,24 +126,30 @@
     <Compile Include="telaMedia.Designer.cs">
       <DependentUpon>telaMedia.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaMenu.cs">
+    <Compile Include="Admin\telaMenuAdm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaMenu.Designer.cs">
-      <DependentUpon>telaMenu.cs</DependentUpon>
+    <Compile Include="Admin\telaMenuAdm.Designer.cs">
+      <DependentUpon>telaMenuAdm.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaPesquisaAlunos.cs">
+    <Compile Include="Aluno\telaPesquisaAlunos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaPesquisaAlunos.Designer.cs">
+    <Compile Include="Aluno\telaPesquisaAlunos.Designer.cs">
       <DependentUpon>telaPesquisaAlunos.cs</DependentUpon>
     </Compile>
-    <Compile Include="telaProfessores.cs">
+    <Compile Include="Professores\telaProfessores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="telaProfessores.Designer.cs">
+    <Compile Include="Professores\telaProfessores.Designer.cs">
       <DependentUpon>telaProfessores.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Aluno\telaAlterarAluno.resx">
+      <DependentUpon>telaAlterarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aluno\telaMenuAluno.resx">
+      <DependentUpon>telaMenuAluno.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -144,40 +163,40 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="telaAdicionarAluno.resx">
+    <EmbeddedResource Include="Aluno\telaAdicionarAluno.resx">
       <DependentUpon>telaAdicionarAluno.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaAlunos.resx">
+    <EmbeddedResource Include="Aluno\telaAlunos.resx">
       <DependentUpon>telaAlunos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaDisciplinas.resx">
+    <EmbeddedResource Include="Disciplinas\telaDisciplinas.resx">
       <DependentUpon>telaDisciplinas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaFuncionarios.resx">
+    <EmbeddedResource Include="Professores\telaFuncionarios.resx">
       <DependentUpon>telaFuncionarios.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaLogin.resx">
+    <EmbeddedResource Include="Admin\telaLogin.resx">
       <DependentUpon>telaLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaLoginAlunos.resx">
+    <EmbeddedResource Include="Aluno\telaLoginAlunos.resx">
       <DependentUpon>telaLoginAlunos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaLoginFuncionarios.resx">
+    <EmbeddedResource Include="Funcionarios\telaLoginFuncionarios.resx">
       <DependentUpon>telaLoginFuncionarios.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaLoginProfessoresDirecao.resx">
+    <EmbeddedResource Include="Professores\telaLoginProfessoresDirecao.resx">
       <DependentUpon>telaLoginProfessoresDirecao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="telaMedia.resx">
       <DependentUpon>telaMedia.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaMenu.resx">
-      <DependentUpon>telaMenu.cs</DependentUpon>
+    <EmbeddedResource Include="Admin\telaMenuAdm.resx">
+      <DependentUpon>telaMenuAdm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaPesquisaAlunos.resx">
+    <EmbeddedResource Include="Aluno\telaPesquisaAlunos.resx">
       <DependentUpon>telaPesquisaAlunos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="telaProfessores.resx">
+    <EmbeddedResource Include="Professores\telaProfessores.resx">
       <DependentUpon>telaProfessores.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -194,7 +213,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Classes\" />
     <Folder Include="Resources\Icones\" />
   </ItemGroup>
   <ItemGroup>

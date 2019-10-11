@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\bin\Debug\netcoreapp2.2\NullableType.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\bin\Debug\netcoreapp2.2\NullableType.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\bin\Debug\netcoreapp2.2\NullableType.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\bin\Debug\netcoreapp2.2\NullableType.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\bin\Debug\netcoreapp2.2\NullableType.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\obj\Debug\netcoreapp2.2\NullableType.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\obj\Debug\netcoreapp2.2\NullableType.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\obj\Debug\netcoreapp2.2\NullableType.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\obj\Debug\netcoreapp2.2\NullableType.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\NullableType\obj\Debug\netcoreapp2.2\NullableType.pdb

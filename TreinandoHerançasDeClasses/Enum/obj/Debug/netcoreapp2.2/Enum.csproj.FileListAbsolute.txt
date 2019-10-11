@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\bin\Debug\netcoreapp2.2\Enum.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\bin\Debug\netcoreapp2.2\Enum.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\bin\Debug\netcoreapp2.2\Enum.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\bin\Debug\netcoreapp2.2\Enum.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\bin\Debug\netcoreapp2.2\Enum.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Enum\obj\Debug\netcoreapp2.2\Enum.csprojAssemblyReference.cache

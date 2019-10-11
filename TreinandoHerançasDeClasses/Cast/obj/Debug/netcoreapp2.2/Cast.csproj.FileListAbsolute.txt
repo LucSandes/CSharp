@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\bin\Debug\netcoreapp2.2\Cast.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\bin\Debug\netcoreapp2.2\Cast.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\bin\Debug\netcoreapp2.2\Cast.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\bin\Debug\netcoreapp2.2\Cast.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\bin\Debug\netcoreapp2.2\Cast.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Cast\obj\Debug\netcoreapp2.2\Cast.csprojAssemblyReference.cache

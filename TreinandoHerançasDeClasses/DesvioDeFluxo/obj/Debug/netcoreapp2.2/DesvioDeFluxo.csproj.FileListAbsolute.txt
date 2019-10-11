@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\bin\Debug\netcoreapp2.2\DesvioDeFluxo.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\bin\Debug\netcoreapp2.2\DesvioDeFluxo.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\bin\Debug\netcoreapp2.2\DesvioDeFluxo.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\bin\Debug\netcoreapp2.2\DesvioDeFluxo.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\bin\Debug\netcoreapp2.2\DesvioDeFluxo.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.pdb

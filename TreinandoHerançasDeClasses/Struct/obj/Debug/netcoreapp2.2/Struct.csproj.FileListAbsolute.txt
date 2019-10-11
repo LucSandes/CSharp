@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\bin\Debug\netcoreapp2.2\Struct.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\bin\Debug\netcoreapp2.2\Struct.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\bin\Debug\netcoreapp2.2\Struct.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\bin\Debug\netcoreapp2.2\Struct.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\bin\Debug\netcoreapp2.2\Struct.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Struct\obj\Debug\netcoreapp2.2\Struct.pdb

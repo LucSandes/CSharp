@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\bin\Debug\netcoreapp2.2\Operadores.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\bin\Debug\netcoreapp2.2\Operadores.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\bin\Debug\netcoreapp2.2\Operadores.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\bin\Debug\netcoreapp2.2\Operadores.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\bin\Debug\netcoreapp2.2\Operadores.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Operadores\obj\Debug\netcoreapp2.2\Operadores.csprojAssemblyReference.cache

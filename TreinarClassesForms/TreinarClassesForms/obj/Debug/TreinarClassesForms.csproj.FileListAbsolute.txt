@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\bin\Debug\TreinarClassesForms.exe.config
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\bin\Debug\TreinarClassesForms.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\bin\Debug\TreinarClassesForms.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.Form1.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.Properties.Resources.resources
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.csproj.GenerateResource.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.exe
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinarClassesForms\TreinarClassesForms\obj\Debug\TreinarClassesForms.pdb

@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\bin\Debug\netcoreapp2.2\ReferenceTypes.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\bin\Debug\netcoreapp2.2\ReferenceTypes.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\bin\Debug\netcoreapp2.2\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\bin\Debug\netcoreapp2.2\ReferenceTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\bin\Debug\netcoreapp2.2\ReferenceTypes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\obj\Debug\netcoreapp2.2\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\obj\Debug\netcoreapp2.2\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\obj\Debug\netcoreapp2.2\ReferenceTypes.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\obj\Debug\netcoreapp2.2\ReferenceTypes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\ReferenceTypes\obj\Debug\netcoreapp2.2\ReferenceTypes.pdb

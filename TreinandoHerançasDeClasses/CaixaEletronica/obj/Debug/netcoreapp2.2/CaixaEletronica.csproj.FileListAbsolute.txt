@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\bin\Debug\netcoreapp2.2\CaixaEletronica.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\bin\Debug\netcoreapp2.2\CaixaEletronica.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\bin\Debug\netcoreapp2.2\CaixaEletronica.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\bin\Debug\netcoreapp2.2\CaixaEletronica.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\bin\Debug\netcoreapp2.2\CaixaEletronica.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\CaixaEletronica\obj\Debug\netcoreapp2.2\CaixaEletronica.pdb

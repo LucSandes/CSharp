@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\bin\Debug\netcoreapp2.2\VariaveisConstantes.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\bin\Debug\netcoreapp2.2\VariaveisConstantes.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\bin\Debug\netcoreapp2.2\VariaveisConstantes.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\bin\Debug\netcoreapp2.2\VariaveisConstantes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\bin\Debug\netcoreapp2.2\VariaveisConstantes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\VariaveisConstantes\obj\Debug\netcoreapp2.2\VariaveisConstantes.csprojAssemblyReference.cache
