@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\bin\Debug\netcoreapp2.2\001-Fields.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\bin\Debug\netcoreapp2.2\001-Fields.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\bin\Debug\netcoreapp2.2\001-Fields.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\bin\Debug\netcoreapp2.2\001-Fields.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\bin\Debug\netcoreapp2.2\001-Fields.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\001-Fields\obj\Debug\netcoreapp2.2\001-Fields.pdb

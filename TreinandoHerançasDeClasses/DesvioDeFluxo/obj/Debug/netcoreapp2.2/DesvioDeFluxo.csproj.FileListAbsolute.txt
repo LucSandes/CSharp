@@ -8,3 +8,4 @@ C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Desvio
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.AssemblyInfo.cs
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.dll
 C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\DesvioDeFluxo\obj\Debug\netcoreapp2.2\DesvioDeFluxo.csprojAssemblyReference.cache

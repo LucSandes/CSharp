@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\EstruturasDeRepeticao.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\EstruturasDeRepeticao.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\EstruturasDeRepeticao.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\EstruturasDeRepeticao.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\EstruturasDeRepeticao.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\EstruturasDeRepeticao.pdb

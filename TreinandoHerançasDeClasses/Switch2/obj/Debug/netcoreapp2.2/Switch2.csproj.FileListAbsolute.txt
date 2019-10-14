@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\bin\Debug\netcoreapp2.2\Switch2.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\bin\Debug\netcoreapp2.2\Switch2.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\bin\Debug\netcoreapp2.2\Switch2.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\bin\Debug\netcoreapp2.2\Switch2.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\bin\Debug\netcoreapp2.2\Switch2.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\obj\Debug\netcoreapp2.2\Switch2.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\obj\Debug\netcoreapp2.2\Switch2.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\obj\Debug\netcoreapp2.2\Switch2.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\obj\Debug\netcoreapp2.2\Switch2.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\Switch2\obj\Debug\netcoreapp2.2\Switch2.pdb

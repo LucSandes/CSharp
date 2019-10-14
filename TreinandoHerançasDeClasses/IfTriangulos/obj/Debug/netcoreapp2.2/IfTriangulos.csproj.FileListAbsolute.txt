@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\bin\Debug\netcoreapp2.2\IfTriangulos.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\bin\Debug\netcoreapp2.2\IfTriangulos.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\bin\Debug\netcoreapp2.2\IfTriangulos.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\bin\Debug\netcoreapp2.2\IfTriangulos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\bin\Debug\netcoreapp2.2\IfTriangulos.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\IfTriangulos\obj\Debug\netcoreapp2.2\IfTriangulos.pdb

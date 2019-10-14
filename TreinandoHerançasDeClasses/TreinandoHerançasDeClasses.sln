@@ -11,21 +11,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{026A7647-E001-43EE-9373-2C19A760D0F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{CC24F1A9-ABB5-4ABF-9F77-470EF1D9F481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{CC24F1A9-ABB5-4ABF-9F77-470EF1D9F481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast", "Cast\Cast.csproj", "{DB8675D8-2362-4EBC-8706-A67B5771487A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cast", "Cast\Cast.csproj", "{DB8675D8-2362-4EBC-8706-A67B5771487A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null", "Null\Null.csproj", "{D42569F7-C9D8-4EF9-8406-B019B8B174D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Null", "Null\Null.csproj", "{D42569F7-C9D8-4EF9-8406-B019B8B174D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableType", "NullableType\NullableType.csproj", "{76D5817C-5495-4323-8E70-FD8F5C5C0AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableType", "NullableType\NullableType.csproj", "{76D5817C-5495-4323-8E70-FD8F5C5C0AF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{9E8080F0-BDE6-4240-BAFA-763F5D12DEF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores", "Operadores\Operadores.csproj", "{9E8080F0-BDE6-4240-BAFA-763F5D12DEF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEletronica", "CaixaEletronica\CaixaEletronica.csproj", "{D6664696-ED24-4B3C-A9EC-D82BC55D8F48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaixaEletronica", "CaixaEletronica\CaixaEletronica.csproj", "{D6664696-ED24-4B3C-A9EC-D82BC55D8F48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesvioDeFluxo", "DesvioDeFluxo\DesvioDeFluxo.csproj", "{E6168678-19B7-4785-BAE2-58691A34DE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesvioDeFluxo", "DesvioDeFluxo\DesvioDeFluxo.csproj", "{E6168678-19B7-4785-BAE2-58691A34DE32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfTriangulos", "IfTriangulos\IfTriangulos.csproj", "{364BA464-D2EF-46AC-AB43-FB1205EC141E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfTriangulos", "IfTriangulos\IfTriangulos.csproj", "{364BA464-D2EF-46AC-AB43-FB1205EC141E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{FC525954-9549-4E37-8299-01CFD4D82751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch2", "Switch2\Switch2.csproj", "{9BFF9BC0-7899-4AEE-89DA-63BAA6CB7ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "EstruturasDeRepeticao\Foreach.csproj", "{4DFFD206-EBE4-4CEF-8A49-CB97589B2726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{51E4B11B-FFA0-459B-89D2-3517F0F9D4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "DoWhile\While.csproj", "{480AE0CC-5B3C-4C6C-A97E-33CADA42FD52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do", "Do\Do.csproj", "{84995622-ADCD-475E-89D4-E3E21061DF06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +93,30 @@ Global
 		{364BA464-D2EF-46AC-AB43-FB1205EC141E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{364BA464-D2EF-46AC-AB43-FB1205EC141E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{364BA464-D2EF-46AC-AB43-FB1205EC141E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC525954-9549-4E37-8299-01CFD4D82751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC525954-9549-4E37-8299-01CFD4D82751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC525954-9549-4E37-8299-01CFD4D82751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC525954-9549-4E37-8299-01CFD4D82751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFF9BC0-7899-4AEE-89DA-63BAA6CB7ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFF9BC0-7899-4AEE-89DA-63BAA6CB7ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFF9BC0-7899-4AEE-89DA-63BAA6CB7ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFF9BC0-7899-4AEE-89DA-63BAA6CB7ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFFD206-EBE4-4CEF-8A49-CB97589B2726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFFD206-EBE4-4CEF-8A49-CB97589B2726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFFD206-EBE4-4CEF-8A49-CB97589B2726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFFD206-EBE4-4CEF-8A49-CB97589B2726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E4B11B-FFA0-459B-89D2-3517F0F9D4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E4B11B-FFA0-459B-89D2-3517F0F9D4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E4B11B-FFA0-459B-89D2-3517F0F9D4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E4B11B-FFA0-459B-89D2-3517F0F9D4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480AE0CC-5B3C-4C6C-A97E-33CADA42FD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480AE0CC-5B3C-4C6C-A97E-33CADA42FD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480AE0CC-5B3C-4C6C-A97E-33CADA42FD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480AE0CC-5B3C-4C6C-A97E-33CADA42FD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84995622-ADCD-475E-89D4-E3E21061DF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84995622-ADCD-475E-89D4-E3E21061DF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84995622-ADCD-475E-89D4-E3E21061DF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84995622-ADCD-475E-89D4-E3E21061DF06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

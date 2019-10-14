@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\Foreach.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\Foreach.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\Foreach.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\Foreach.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\bin\Debug\netcoreapp2.2\Foreach.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TreinandoHerançasDeClasses\EstruturasDeRepeticao\obj\Debug\netcoreapp2.2\Foreach.pdb
