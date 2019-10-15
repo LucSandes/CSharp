@@ -1,26 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SistemaDeNotas
 {
     public partial class telaPesquisaAlunos : Form
     {
-        List<alunos> listaAlunos = new List<alunos>();
+        List<Aluno.Aluno> listaAlunos = new List<Aluno.Aluno>();
         public telaPesquisaAlunos()
         {
             InitializeComponent();
-            alunos a1 = new alunos();
-            alunos a2 = new alunos();
-            alunos a3 = new alunos();
-            alunos a4 = new alunos();
-            alunos a5 = new alunos();
+            Aluno.Aluno a1 = new Aluno.Aluno();
+            Aluno.Aluno a2 = new Aluno.Aluno();
+            Aluno.Aluno a3 = new Aluno.Aluno();
+            Aluno.Aluno a4 = new Aluno.Aluno();
+            Aluno.Aluno a5 = new Aluno.Aluno();
         }
 
         public string Propriedade { get; set; }

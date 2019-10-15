@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\bin\Debug\netcoreapp2.2\004-Constructor.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\bin\Debug\netcoreapp2.2\004-Constructor.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\bin\Debug\netcoreapp2.2\004-Constructor.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\bin\Debug\netcoreapp2.2\004-Constructor.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\bin\Debug\netcoreapp2.2\004-Constructor.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\004-Constructor\obj\Debug\netcoreapp2.2\004-Constructor.csprojAssemblyReference.cache

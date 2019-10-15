@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\bin\Debug\netcoreapp2.2\003-AutoImplementedProperties.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\bin\Debug\netcoreapp2.2\003-AutoImplementedProperties.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\bin\Debug\netcoreapp2.2\003-AutoImplementedProperties.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\bin\Debug\netcoreapp2.2\003-AutoImplementedProperties.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\bin\Debug\netcoreapp2.2\003-AutoImplementedProperties.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\003-AutoImplementedProperties\obj\Debug\netcoreapp2.2\003-AutoImplementedProperties.csprojAssemblyReference.cache

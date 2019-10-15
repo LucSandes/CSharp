@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\obj\Debug\netcoreapp2.2\011-Out.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\obj\Debug\netcoreapp2.2\011-Out.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\obj\Debug\netcoreapp2.2\011-Out.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\bin\Debug\netcoreapp2.2\011-Out.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\bin\Debug\netcoreapp2.2\011-Out.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\bin\Debug\netcoreapp2.2\011-Out.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\bin\Debug\netcoreapp2.2\011-Out.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\bin\Debug\netcoreapp2.2\011-Out.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\obj\Debug\netcoreapp2.2\011-Out.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\011-Out\obj\Debug\netcoreapp2.2\011-Out.pdb

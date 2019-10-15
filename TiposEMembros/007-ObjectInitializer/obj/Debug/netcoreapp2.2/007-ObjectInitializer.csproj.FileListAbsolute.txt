@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\bin\Debug\netcoreapp2.2\007-ObjectInitializer.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\bin\Debug\netcoreapp2.2\007-ObjectInitializer.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\bin\Debug\netcoreapp2.2\007-ObjectInitializer.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\bin\Debug\netcoreapp2.2\007-ObjectInitializer.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\bin\Debug\netcoreapp2.2\007-ObjectInitializer.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\007-ObjectInitializer\obj\Debug\netcoreapp2.2\007-ObjectInitializer.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\bin\Debug\netcoreapp2.2\010-RecursiveMethod.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\bin\Debug\netcoreapp2.2\010-RecursiveMethod.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\bin\Debug\netcoreapp2.2\010-RecursiveMethod.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\bin\Debug\netcoreapp2.2\010-RecursiveMethod.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\bin\Debug\netcoreapp2.2\010-RecursiveMethod.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\010-RecursiveMethod\obj\Debug\netcoreapp2.2\010-RecursiveMethod.pdb

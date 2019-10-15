@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\bin\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\bin\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\bin\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\bin\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\bin\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\006-ConstructorOptionalParameters\obj\Debug\netcoreapp2.2\006-ConstructorOptionalParameters.pdb

@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\bin\Debug\netcoreapp2.2\009-Calculadora.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\bin\Debug\netcoreapp2.2\009-Calculadora.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\bin\Debug\netcoreapp2.2\009-Calculadora.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\bin\Debug\netcoreapp2.2\009-Calculadora.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\bin\Debug\netcoreapp2.2\009-Calculadora.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\obj\Debug\netcoreapp2.2\009-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\obj\Debug\netcoreapp2.2\009-Calculadora.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\obj\Debug\netcoreapp2.2\009-Calculadora.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\obj\Debug\netcoreapp2.2\009-Calculadora.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\009-Calculadora\obj\Debug\netcoreapp2.2\009-Calculadora.pdb

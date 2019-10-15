@@ -12,11 +12,18 @@ namespace _001_Fields
 
             Console.WriteLine("{0}/{1}", fracao.numerador, fracao.denominador);
 
-            Ponto p = new Ponto();
+            Ponto p = new Ponto(x: 10, y: 5);
 
-            p.x = 10;
+            Console.WriteLine("({0}, {1})", p.x, p.y);
+
+            //p.x = 10;
+            p.MudarValorDeXSePar(100);
             p.y = 5;
 
+            Console.WriteLine("({0}, {1})", p.x, p.y);
+
+
+            p.MudarValorDeXSePar(51);
             Console.WriteLine("({0}, {1})", p.x, p.y);
 
             Console.ReadKey();
@@ -46,7 +53,20 @@ namespace _001_Fields
     /*por padrão se não escreve vem como internal*/
     class Ponto
     {
-        internal int x; //deveria ser private
+        public Ponto(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+
+        internal void MudarValorDeXSePar(int x)
+        {
+            if ((x % 2) != 0)
+                return;
+            //se eu quiser eu faço uma validação qualquer
+            this.x = x;
+        }
+        internal int x { get; private set; } //deveria ser private
         internal int y; //deveria ser private
     }
 }

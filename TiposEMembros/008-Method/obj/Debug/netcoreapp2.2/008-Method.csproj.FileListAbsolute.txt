@@ -1,0 +1,10 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\bin\Debug\netcoreapp2.2\008-Method.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\bin\Debug\netcoreapp2.2\008-Method.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\bin\Debug\netcoreapp2.2\008-Method.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\bin\Debug\netcoreapp2.2\008-Method.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\bin\Debug\netcoreapp2.2\008-Method.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\obj\Debug\netcoreapp2.2\008-Method.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\obj\Debug\netcoreapp2.2\008-Method.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\obj\Debug\netcoreapp2.2\008-Method.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\obj\Debug\netcoreapp2.2\008-Method.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\008-Method\obj\Debug\netcoreapp2.2\008-Method.pdb

@@ -2,7 +2,7 @@
 
 namespace SistemaDeNotas
 {
-    public class Disciplinas
+    public class Disciplina
     {
         private string nome;
         private string descricao;

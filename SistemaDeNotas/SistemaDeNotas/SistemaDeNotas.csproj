@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aluno\Alunos.cs" />
+    <Compile Include="Aluno\Aluno.cs" />
     <Compile Include="Aluno\telaAlterarAluno.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,8 +59,8 @@
     <Compile Include="Aluno\telaMenuAluno.Designer.cs">
       <DependentUpon>telaMenuAluno.cs</DependentUpon>
     </Compile>
-    <Compile Include="Disciplinas\Cursos.cs" />
-    <Compile Include="Disciplinas\Disciplinas.cs" />
+    <Compile Include="Disciplinas\Curso.cs" />
+    <Compile Include="Disciplinas\Disciplina.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

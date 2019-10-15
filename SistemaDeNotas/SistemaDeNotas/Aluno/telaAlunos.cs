@@ -5,14 +5,14 @@ namespace SistemaDeNotas
 {
     public partial class telaAlunos : Form
     {
-        private alunos[] novosAlunos;
+        private Aluno.Aluno[] novosAlunos;
         private int numeroDeAlunos;
         public telaAlunos()
         {
             InitializeComponent();
         }
 
-        public void AdicionaAlunos(alunos alunos)
+        public void AdicionaAlunos(Aluno.Aluno alunos)
         {
             this.novosAlunos[this.numeroDeAlunos] = alunos;
             this.numeroDeAlunos++;

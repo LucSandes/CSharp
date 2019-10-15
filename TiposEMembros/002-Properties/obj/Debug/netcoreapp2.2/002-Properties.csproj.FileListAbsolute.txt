@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\bin\Debug\netcoreapp2.2\002-Properties.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\bin\Debug\netcoreapp2.2\002-Properties.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\bin\Debug\netcoreapp2.2\002-Properties.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\bin\Debug\netcoreapp2.2\002-Properties.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\bin\Debug\netcoreapp2.2\002-Properties.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\002-Properties\obj\Debug\netcoreapp2.2\002-Properties.pdb

@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SistemaDeNotas
+﻿namespace SistemaDeNotas
 {
-    class Cursos
+    public class Curso
     {
         string _nome;
         int _valor;
@@ -14,7 +8,7 @@ namespace SistemaDeNotas
         public string Nome { get => _nome; set => _nome = value; }
         public int Valor { get => _valor; set => _valor = value; }
 
-        public Cursos(string nome, int valor)
+        public Curso(string nome, int valor)
         {
             Nome = nome;
             Valor = valor;

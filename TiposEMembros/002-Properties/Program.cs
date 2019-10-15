@@ -6,12 +6,18 @@ namespace _002_Properties
     {
         static void Main(string[] args)
         {
-            Fracao fracao = new Fracao(); ;
+            Fracao fracao = new Fracao();
+
             fracao.Numerador = 1;
-            fracao.Denominador = 2;
+            fracao.Denominador = 0;
 
             Ponto ponto = new Ponto();
 
+            ponto.X = 10;
+            ponto.Y = 10;
+
+            Console.WriteLine("'{0}/{1}'", fracao.Numerador, fracao.Denominador);
+            Console.WriteLine("({0}, {1})", ponto.X, ponto.Y);
 
             Console.ReadKey();
         }
@@ -51,7 +57,22 @@ namespace _002_Properties
     /*por padrão se não escreve vem como internal*/
     class Ponto
     {
-        int x;
-        int y;
+        //propf (code snippet )
+        private int x; //minúsculo porque é campo
+
+        public int X //maiúsculo porque é propriedade
+        {
+            get { return x; }
+            set { x = value; }
+        }
+
+        private int y;
+
+        public int Y
+        {
+            get { return y; }
+            set { y = value; }
+        }
+
     }
 }
