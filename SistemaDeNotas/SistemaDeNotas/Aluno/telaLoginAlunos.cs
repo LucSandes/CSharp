@@ -29,10 +29,12 @@ namespace SistemaDeNotas
 
         private void botaoLoginAluno_Click(object sender, EventArgs e)
         {
+            this.Visible = false;
             if (textoRa.Text == "123" && textoSenhaAluno.Text == "123")
             {
                 Aluno.telaMenuAluno telaMenuAluno = new Aluno.telaMenuAluno();
                 telaMenuAluno.ShowDialog();
+                Visible = true;
             }
             else if (textoRa.Text == "" && textoSenhaAluno.Text == "")
             {

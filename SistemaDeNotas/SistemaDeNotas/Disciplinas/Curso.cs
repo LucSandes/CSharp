@@ -2,8 +2,8 @@
 {
     public class Curso
     {
-        string _nome;
-        int _valor;
+        public string _nome;
+        public int _valor;
 
         public string Nome { get => _nome; set => _nome = value; }
         public int Valor { get => _valor; set => _valor = value; }

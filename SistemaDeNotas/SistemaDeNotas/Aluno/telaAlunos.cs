@@ -63,20 +63,6 @@ namespace SistemaDeNotas
 
 
         }
-        private void GrupoDados_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void BotaoAdicionarAluno_Click(object sender, EventArgs e)
-        {
-            telaAdicionarAluno telaAdicionarAlunos = new telaAdicionarAluno();
-            telaAdicionarAlunos.Show();
-            //if (this.Controls.OfType<TextBox>().Any(f => string.IsNullOrEmpty(f.Text)))
-            //{
-            //    MessageBox.Show("É necessario preencher todos os campos.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-            //}
-        }
 
         private void BotaoAlterarAluno_Click(object sender, EventArgs e)
         {
@@ -93,16 +79,6 @@ namespace SistemaDeNotas
         }
 
         private void TelaAlunos_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TextoTelaAlunos_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TextBox11_TextChanged(object sender, EventArgs e)
         {
 
         }

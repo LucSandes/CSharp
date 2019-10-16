@@ -37,10 +37,19 @@ namespace SistemaDeNotas.Aluno
             listaCursos.Add(new Curso("Jogos Digitais", 7));
             listaCursos.Add(new Curso("Sistemas para Internet", 8));
 
+
+
+
+
             comboCursos.DataSource = listaCursos;
 
             comboCursos.DisplayMember = "nome";
             comboCursos.ValueMember = "valor";
+        }
+
+        private void ComboCursos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

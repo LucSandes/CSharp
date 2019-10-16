@@ -33,13 +33,16 @@
             this.botaoPesquisarCurso = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.botaoPesquisarProfessor = new System.Windows.Forms.Button();
             this.comboProfessores = new System.Windows.Forms.ComboBox();
+            this.botaoVoltar = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // botaoMedia
             // 
-            this.botaoMedia.Location = new System.Drawing.Point(669, 12);
+            this.botaoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoMedia.Location = new System.Drawing.Point(461, 5);
             this.botaoMedia.Name = "botaoMedia";
             this.botaoMedia.Size = new System.Drawing.Size(75, 51);
             this.botaoMedia.TabIndex = 2;
@@ -49,15 +52,18 @@
             // 
             // comboCursos
             // 
+            this.comboCursos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboCursos.FormattingEnabled = true;
             this.comboCursos.Location = new System.Drawing.Point(63, 61);
             this.comboCursos.Name = "comboCursos";
-            this.comboCursos.Size = new System.Drawing.Size(219, 21);
+            this.comboCursos.Size = new System.Drawing.Size(307, 21);
             this.comboCursos.TabIndex = 3;
+            this.comboCursos.SelectedIndexChanged += new System.EventHandler(this.ComboCursos_SelectedIndexChanged);
             // 
             // botaoPesquisarCurso
             // 
-            this.botaoPesquisarCurso.Location = new System.Drawing.Point(293, 61);
+            this.botaoPesquisarCurso.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoPesquisarCurso.Location = new System.Drawing.Point(376, 61);
             this.botaoPesquisarCurso.Name = "botaoPesquisarCurso";
             this.botaoPesquisarCurso.Size = new System.Drawing.Size(75, 23);
             this.botaoPesquisarCurso.TabIndex = 4;
@@ -86,31 +92,56 @@
             this.label2.TabIndex = 8;
             this.label2.Text = "Professores:";
             // 
-            // button1
+            // botaoPesquisarProfessor
             // 
-            this.button1.Location = new System.Drawing.Point(293, 105);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Pesquisar Curso";
-            this.button1.UseVisualStyleBackColor = true;
+            this.botaoPesquisarProfessor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoPesquisarProfessor.Location = new System.Drawing.Point(376, 107);
+            this.botaoPesquisarProfessor.Name = "botaoPesquisarProfessor";
+            this.botaoPesquisarProfessor.Size = new System.Drawing.Size(75, 23);
+            this.botaoPesquisarProfessor.TabIndex = 7;
+            this.botaoPesquisarProfessor.Text = "Pesquisar Curso";
+            this.botaoPesquisarProfessor.UseVisualStyleBackColor = true;
             // 
             // comboProfessores
             // 
+            this.comboProfessores.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboProfessores.FormattingEnabled = true;
             this.comboProfessores.Location = new System.Drawing.Point(94, 107);
             this.comboProfessores.Name = "comboProfessores";
-            this.comboProfessores.Size = new System.Drawing.Size(188, 21);
+            this.comboProfessores.Size = new System.Drawing.Size(276, 21);
             this.comboProfessores.TabIndex = 6;
+            // 
+            // botaoVoltar
+            // 
+            this.botaoVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoVoltar.Location = new System.Drawing.Point(14, 156);
+            this.botaoVoltar.Name = "botaoVoltar";
+            this.botaoVoltar.Size = new System.Drawing.Size(75, 23);
+            this.botaoVoltar.TabIndex = 63;
+            this.botaoVoltar.Text = "Voltar";
+            this.botaoVoltar.UseVisualStyleBackColor = true;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(10, 16);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(293, 24);
+            this.label3.TabIndex = 64;
+            this.label3.Text = "Pesquisar Curso ou Professor:";
             // 
             // telaMenuAluno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(756, 262);
+            this.ClientSize = new System.Drawing.Size(541, 191);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.botaoVoltar);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.botaoPesquisarProfessor);
             this.Controls.Add(this.comboProfessores);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.botaoPesquisarCurso);
@@ -132,7 +163,9 @@
         private System.Windows.Forms.Button botaoPesquisarCurso;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button botaoPesquisarProfessor;
         private System.Windows.Forms.ComboBox comboProfessores;
+        private System.Windows.Forms.Button botaoVoltar;
+        private System.Windows.Forms.Label label3;
     }
 }

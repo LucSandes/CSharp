@@ -4,12 +4,12 @@ namespace SistemaDeNotas
 {
     public class Disciplina
     {
-        private string nome;
-        private string descricao;
-        private int codigoIdentificacao;
-        private string curso;
-        private DateTime inclusao;
-        private DateTime exclusao;
+        public string nome;
+        public string descricao;
+        public int codigoIdentificacao;
+        public string curso;
+        public DateTime inclusao;
+        public DateTime exclusao;
         public string Nome { get => nome; set => nome = value; }
         public string Descricao { get => descricao; set => descricao = value; }
         public int CodigoIdentificacao { get => codigoIdentificacao; set => codigoIdentificacao = value; }

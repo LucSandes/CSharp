@@ -17,11 +17,12 @@ namespace SistemaDeNotas
 
         private void BotaoLogin_Click(object sender, EventArgs e)
         {
-
+            this.Visible = false;
             if (textoUsuario.Text == "admin" && textoSenha.Text == "123")
             {
                 telaMenuAdm telaMenu = new telaMenuAdm();
                 telaMenu.ShowDialog();
+                this.Visible = true;
             }
             else if (textoUsuario.Text == "" && textoSenha.Text == "")
             {

@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(telaMedia));
             this.textoNota1 = new System.Windows.Forms.TextBox();
             this.textoNota2 = new System.Windows.Forms.TextBox();
             this.textoNota3 = new System.Windows.Forms.TextBox();
@@ -80,6 +79,7 @@
             // 
             // botaoVoltar
             // 
+            this.botaoVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoVoltar.Location = new System.Drawing.Point(13, 13);
             this.botaoVoltar.Name = "botaoVoltar";
             this.botaoVoltar.Size = new System.Drawing.Size(75, 23);
@@ -94,7 +94,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(9, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.Size = new System.Drawing.Size(51, 13);
             this.label1.TabIndex = 5;
             this.label1.Text = "Prova 1";
             // 
@@ -104,7 +104,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(9, 54);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 13);
+            this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 6;
             this.label2.Text = "Prova 2";
             // 
@@ -114,7 +114,7 @@
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(9, 91);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(60, 13);
+            this.label4.Size = new System.Drawing.Size(71, 13);
             this.label4.TabIndex = 7;
             this.label4.Text = "Atividade 1";
             // 
@@ -124,7 +124,7 @@
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(9, 127);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 13);
+            this.label5.Size = new System.Drawing.Size(71, 13);
             this.label5.TabIndex = 8;
             this.label5.Text = "Atividade 2";
             // 
@@ -139,6 +139,7 @@
             this.groupBox1.Controls.Add(this.textoNota3);
             this.groupBox1.Controls.Add(this.textoNota2);
             this.groupBox1.Controls.Add(this.textoNota1);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.White;
             this.groupBox1.Location = new System.Drawing.Point(13, 55);
             this.groupBox1.Name = "groupBox1";
@@ -149,6 +150,7 @@
             // 
             // botaoMedia
             // 
+            this.botaoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoMedia.Location = new System.Drawing.Point(260, 103);
             this.botaoMedia.Name = "botaoMedia";
             this.botaoMedia.Size = new System.Drawing.Size(75, 23);
@@ -159,6 +161,7 @@
             // 
             // botaoLimpar
             // 
+            this.botaoLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoLimpar.Location = new System.Drawing.Point(260, 140);
             this.botaoLimpar.Name = "botaoLimpar";
             this.botaoLimpar.Size = new System.Drawing.Size(75, 23);
@@ -169,6 +172,7 @@
             // 
             // textoMaior
             // 
+            this.textoMaior.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMaior.Location = new System.Drawing.Point(359, 71);
             this.textoMaior.Name = "textoMaior";
             this.textoMaior.Size = new System.Drawing.Size(100, 20);
@@ -176,6 +180,7 @@
             // 
             // textoMenor
             // 
+            this.textoMenor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMenor.Location = new System.Drawing.Point(359, 120);
             this.textoMenor.Name = "textoMenor";
             this.textoMenor.Size = new System.Drawing.Size(100, 20);
@@ -183,6 +188,7 @@
             // 
             // textoMedia
             // 
+            this.textoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMedia.Location = new System.Drawing.Point(359, 166);
             this.textoMedia.Name = "textoMedia";
             this.textoMedia.Size = new System.Drawing.Size(100, 20);
@@ -193,10 +199,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(356, 55);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(62, 13);
+            this.label3.Size = new System.Drawing.Size(73, 13);
             this.label3.TabIndex = 9;
             this.label3.Text = "Maior Nota:";
             // 
@@ -204,10 +211,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
             this.label6.Location = new System.Drawing.Point(356, 103);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(66, 13);
+            this.label6.Size = new System.Drawing.Size(77, 13);
             this.label6.TabIndex = 14;
             this.label6.Text = "Menor Nota:";
             // 
@@ -215,10 +223,11 @@
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.Transparent;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(356, 150);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(39, 13);
+            this.label7.Size = new System.Drawing.Size(45, 13);
             this.label7.TabIndex = 15;
             this.label7.Text = "Média:";
             // 
@@ -226,7 +235,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(471, 238);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);

@@ -111,6 +111,7 @@
             this.Name = "telaMenuAdm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "telaMenu";
+            this.Load += new System.EventHandler(this.TelaMenuAdm_Load);
             this.ResumeLayout(false);
 
         }
