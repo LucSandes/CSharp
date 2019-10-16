@@ -1,0 +1,11 @@
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\bin\Debug\netcoreapp2.2\013-OptionalParameters.deps.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\bin\Debug\netcoreapp2.2\013-OptionalParameters.runtimeconfig.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\bin\Debug\netcoreapp2.2\013-OptionalParameters.runtimeconfig.dev.json
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\bin\Debug\netcoreapp2.2\013-OptionalParameters.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\bin\Debug\netcoreapp2.2\013-OptionalParameters.pdb
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.csprojAssemblyReference.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.AssemblyInfoInputs.cache
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.AssemblyInfo.cs
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.dll
+C:\Users\topdown\Desktop\Estudo\CSHarp\CSharp\TiposEMembros\013-OptionalParameters\obj\Debug\netcoreapp2.2\013-OptionalParameters.pdb

@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(telaMenuAdm));
             this.botaoSair = new System.Windows.Forms.Button();
             this.botaoMedia = new System.Windows.Forms.Button();
             this.botaoTelaAlunos = new System.Windows.Forms.Button();
@@ -101,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(501, 121);
             this.Controls.Add(this.botaoTelaFuncionarios);
             this.Controls.Add(this.botaoTelaDisciplinas);

@@ -312,6 +312,7 @@
             // 
             // comboCursos
             // 
+            this.comboCursos.Enabled = false;
             this.comboCursos.FormattingEnabled = true;
             this.comboCursos.Location = new System.Drawing.Point(57, 216);
             this.comboCursos.Name = "comboCursos";

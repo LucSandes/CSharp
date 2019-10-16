@@ -6,12 +6,22 @@ namespace _012_Ref
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int x = 10, y = 3;
+            Swap(ref x, ref y);
+
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+
+            Console.ReadKey();
         }
 
-        static void Swap()
-        {
 
+        //ref -> é usado com value type e indica que o parâmetro é input/output
+        static void Swap(ref int a, ref int b)
+        {
+            int tmp = a;
+            a = b;
+            b = tmp;
         }
     }
 }
