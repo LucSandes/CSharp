@@ -12,17 +12,18 @@ namespace SistemaDeNotas
 
         private void TelaLogin_Load(object sender, EventArgs e)
         {
-
         }
 
         private void BotaoLogin_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             if (textoUsuario.Text == "admin" && textoSenha.Text == "123")
             {
                 telaMenuAdm telaMenu = new telaMenuAdm();
-                telaMenu.ShowDialog();
-                this.Visible = true;
+                telaMenu.TopLevel = false;
+                telaMenu.Visible = true;
+                panel1.Controls.Add(telaMenu);
+                groupBox1.Hide();
+                //telaMenu.ShowDialog();
             }
             else if (textoUsuario.Text == "" && textoSenha.Text == "")
             {
@@ -46,6 +47,11 @@ namespace SistemaDeNotas
 
         private void TextoUsuario_TextChanged(object sender, EventArgs e)
         {
+        }
+
+        private void Label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
