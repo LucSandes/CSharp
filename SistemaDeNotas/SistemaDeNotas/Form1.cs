@@ -1,16 +1,18 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace SistemaDeNotas
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void BotaoSair_Click(object sender, EventArgs e)
+        private void PictureBox3_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
@@ -20,42 +22,50 @@ namespace SistemaDeNotas
         }
         private void BotaoAlunos_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaLoginAlunos telaLoginAlunos = new telaLoginAlunos();
-            telaLoginAlunos.ShowDialog();
-            this.Visible = true;
+            telaLoginAlunos.TopLevel = false;
+            telaLoginAlunos.Visible = true;
+            panel1.Controls.Add(telaLoginAlunos);
+            telaLoginAlunos.BringToFront();
         }
 
         private void BotaoProfessores_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
+
             telaLoginProfessoresDirecao telaLoginProfessoresDirecao = new telaLoginProfessoresDirecao();
-            telaLoginProfessoresDirecao.ShowDialog();
-            this.Visible = true;
+            telaLoginProfessoresDirecao.TopLevel = false;
+            telaLoginProfessoresDirecao.Visible = true;
+            panel1.Controls.Add(telaLoginProfessoresDirecao);
+            telaLoginProfessoresDirecao.BringToFront();
+
         }
 
         private void BotaoFuncionarios_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaLoginFuncionarios telaLoginFuncionarios = new telaLoginFuncionarios();
-            telaLoginFuncionarios.ShowDialog();
-            this.Visible = true;
-        }
-
-        private void PictureBox1_Click(object sender, EventArgs e)
-        {
-        }
-        private void Label1_Click(object sender, EventArgs e)
-        {
-
+            telaLoginFuncionarios.TopLevel = false;
+            telaLoginFuncionarios.Visible = true;
+            panel1.Controls.Add(telaLoginFuncionarios);
+            telaLoginFuncionarios.BringToFront();
         }
 
         private void PictureBox2_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaLogin telaLogin = new telaLogin();
-            telaLogin.ShowDialog();
-            this.Visible = true;
+            telaLogin.TopLevel = false;
+            telaLogin.Visible = true;
+            panel1.Controls.Add(telaLogin);
+        }
+
+        private void Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+            ProcessStartInfo sInfo = new ProcessStartInfo("www.fatecsp.br");
+            Process.Start(sInfo);
         }
     }
 }

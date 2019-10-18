@@ -34,21 +34,26 @@
             this.botaoTelaProfessores = new System.Windows.Forms.Button();
             this.botaoTelaDisciplinas = new System.Windows.Forms.Button();
             this.botaoTelaFuncionarios = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.painelMenuAdm = new System.Windows.Forms.Panel();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // botaoSair
             // 
-            this.botaoSair.Location = new System.Drawing.Point(202, 83);
+            this.botaoSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoSair.Location = new System.Drawing.Point(14, 99);
             this.botaoSair.Name = "botaoSair";
-            this.botaoSair.Size = new System.Drawing.Size(91, 23);
+            this.botaoSair.Size = new System.Drawing.Size(118, 23);
             this.botaoSair.TabIndex = 0;
-            this.botaoSair.Text = "Voltar pro Login";
+            this.botaoSair.Text = "Fechar";
             this.botaoSair.UseVisualStyleBackColor = true;
             this.botaoSair.Click += new System.EventHandler(this.BotaoSair_Click);
             // 
             // botaoMedia
             // 
-            this.botaoMedia.Location = new System.Drawing.Point(409, 22);
+            this.botaoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoMedia.Location = new System.Drawing.Point(26, 35);
             this.botaoMedia.Name = "botaoMedia";
             this.botaoMedia.Size = new System.Drawing.Size(75, 51);
             this.botaoMedia.TabIndex = 1;
@@ -58,9 +63,10 @@
             // 
             // botaoTelaAlunos
             // 
-            this.botaoTelaAlunos.Location = new System.Drawing.Point(7, 36);
+            this.botaoTelaAlunos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoTelaAlunos.Location = new System.Drawing.Point(168, 46);
             this.botaoTelaAlunos.Name = "botaoTelaAlunos";
-            this.botaoTelaAlunos.Size = new System.Drawing.Size(75, 23);
+            this.botaoTelaAlunos.Size = new System.Drawing.Size(74, 40);
             this.botaoTelaAlunos.TabIndex = 2;
             this.botaoTelaAlunos.Text = "Alunos";
             this.botaoTelaAlunos.UseVisualStyleBackColor = true;
@@ -68,9 +74,10 @@
             // 
             // botaoTelaProfessores
             // 
-            this.botaoTelaProfessores.Location = new System.Drawing.Point(111, 36);
+            this.botaoTelaProfessores.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoTelaProfessores.Location = new System.Drawing.Point(299, 46);
             this.botaoTelaProfessores.Name = "botaoTelaProfessores";
-            this.botaoTelaProfessores.Size = new System.Drawing.Size(75, 23);
+            this.botaoTelaProfessores.Size = new System.Drawing.Size(85, 40);
             this.botaoTelaProfessores.TabIndex = 3;
             this.botaoTelaProfessores.Text = "Professores";
             this.botaoTelaProfessores.UseVisualStyleBackColor = true;
@@ -78,9 +85,10 @@
             // 
             // botaoTelaDisciplinas
             // 
-            this.botaoTelaDisciplinas.Location = new System.Drawing.Point(218, 36);
+            this.botaoTelaDisciplinas.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoTelaDisciplinas.Location = new System.Drawing.Point(435, 46);
             this.botaoTelaDisciplinas.Name = "botaoTelaDisciplinas";
-            this.botaoTelaDisciplinas.Size = new System.Drawing.Size(75, 23);
+            this.botaoTelaDisciplinas.Size = new System.Drawing.Size(82, 40);
             this.botaoTelaDisciplinas.TabIndex = 4;
             this.botaoTelaDisciplinas.Text = "Disciplinas";
             this.botaoTelaDisciplinas.UseVisualStyleBackColor = true;
@@ -88,30 +96,54 @@
             // 
             // botaoTelaFuncionarios
             // 
-            this.botaoTelaFuncionarios.Location = new System.Drawing.Point(313, 36);
+            this.botaoTelaFuncionarios.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoTelaFuncionarios.Location = new System.Drawing.Point(581, 46);
             this.botaoTelaFuncionarios.Name = "botaoTelaFuncionarios";
-            this.botaoTelaFuncionarios.Size = new System.Drawing.Size(75, 23);
+            this.botaoTelaFuncionarios.Size = new System.Drawing.Size(90, 40);
             this.botaoTelaFuncionarios.TabIndex = 5;
             this.botaoTelaFuncionarios.Text = "Funcionários";
             this.botaoTelaFuncionarios.UseVisualStyleBackColor = true;
             this.botaoTelaFuncionarios.Click += new System.EventHandler(this.BotaoTelaFuncionarios_Click);
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.botaoTelaFuncionarios);
+            this.groupBox1.Controls.Add(this.botaoTelaDisciplinas);
+            this.groupBox1.Controls.Add(this.botaoTelaProfessores);
+            this.groupBox1.Controls.Add(this.botaoTelaAlunos);
+            this.groupBox1.Controls.Add(this.botaoMedia);
+            this.groupBox1.Controls.Add(this.botaoSair);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.ForeColor = System.Drawing.Color.Black;
+            this.groupBox1.Location = new System.Drawing.Point(103, 9);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(695, 135);
+            this.groupBox1.TabIndex = 6;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Escolha a acão:";
+            // 
+            // painelMenuAdm
+            // 
+            this.painelMenuAdm.Location = new System.Drawing.Point(12, 165);
+            this.painelMenuAdm.Name = "painelMenuAdm";
+            this.painelMenuAdm.Size = new System.Drawing.Size(882, 497);
+            this.painelMenuAdm.TabIndex = 7;
+            this.painelMenuAdm.Paint += new System.Windows.Forms.PaintEventHandler(this.PainelMenuAdm_Paint);
+            // 
             // telaMenuAdm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(501, 121);
-            this.Controls.Add(this.botaoTelaFuncionarios);
-            this.Controls.Add(this.botaoTelaDisciplinas);
-            this.Controls.Add(this.botaoTelaProfessores);
-            this.Controls.Add(this.botaoTelaAlunos);
-            this.Controls.Add(this.botaoMedia);
-            this.Controls.Add(this.botaoSair);
+            this.BackColor = System.Drawing.Color.Silver;
+            this.ClientSize = new System.Drawing.Size(905, 681);
+            this.Controls.Add(this.painelMenuAdm);
+            this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "telaMenuAdm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "telaMenu";
             this.Load += new System.EventHandler(this.TelaMenuAdm_Load);
+            this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -124,5 +156,7 @@
         private System.Windows.Forms.Button botaoTelaProfessores;
         private System.Windows.Forms.Button botaoTelaDisciplinas;
         private System.Windows.Forms.Button botaoTelaFuncionarios;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Panel painelMenuAdm;
     }
 }

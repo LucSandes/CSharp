@@ -227,5 +227,17 @@
   <ItemGroup>
     <None Include="Resources\keys-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logofatec1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25706.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -57,6 +57,8 @@
             // 
             // comboCursos
             // 
+            this.comboCursos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboCursos.ForeColor = System.Drawing.Color.Black;
             this.comboCursos.FormattingEnabled = true;
             this.comboCursos.Location = new System.Drawing.Point(59, 171);
             this.comboCursos.Name = "comboCursos";
@@ -79,6 +81,7 @@
             // 
             this.textoRegistroAluno.BackColor = System.Drawing.Color.White;
             this.textoRegistroAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoRegistroAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoRegistroAluno.ForeColor = System.Drawing.Color.Black;
             this.textoRegistroAluno.Location = new System.Drawing.Point(413, 144);
             this.textoRegistroAluno.Name = "textoRegistroAluno";
@@ -89,6 +92,7 @@
             // 
             this.textoDataMatriculaAluno.BackColor = System.Drawing.Color.White;
             this.textoDataMatriculaAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoDataMatriculaAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoDataMatriculaAluno.ForeColor = System.Drawing.Color.Black;
             this.textoDataMatriculaAluno.Location = new System.Drawing.Point(499, 112);
             this.textoDataMatriculaAluno.Name = "textoDataMatriculaAluno";
@@ -99,6 +103,7 @@
             // 
             this.textoEstadoAluno.BackColor = System.Drawing.Color.White;
             this.textoEstadoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEstadoAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoEstadoAluno.ForeColor = System.Drawing.Color.Black;
             this.textoEstadoAluno.Location = new System.Drawing.Point(428, 80);
             this.textoEstadoAluno.Name = "textoEstadoAluno";
@@ -109,6 +114,7 @@
             // 
             this.textoCidadeAluno.BackColor = System.Drawing.Color.White;
             this.textoCidadeAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoCidadeAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoCidadeAluno.ForeColor = System.Drawing.Color.Black;
             this.textoCidadeAluno.Location = new System.Drawing.Point(428, 51);
             this.textoCidadeAluno.Name = "textoCidadeAluno";
@@ -119,6 +125,7 @@
             // 
             this.textoCpfAluno.BackColor = System.Drawing.Color.White;
             this.textoCpfAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoCpfAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoCpfAluno.ForeColor = System.Drawing.Color.Black;
             this.textoCpfAluno.Location = new System.Drawing.Point(413, 23);
             this.textoCpfAluno.Name = "textoCpfAluno";
@@ -129,6 +136,7 @@
             // 
             this.textoEmailAluno.BackColor = System.Drawing.Color.White;
             this.textoEmailAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEmailAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoEmailAluno.ForeColor = System.Drawing.Color.Black;
             this.textoEmailAluno.Location = new System.Drawing.Point(69, 144);
             this.textoEmailAluno.Name = "textoEmailAluno";
@@ -139,6 +147,7 @@
             // 
             this.textoTelefoneAluno.BackColor = System.Drawing.Color.White;
             this.textoTelefoneAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoTelefoneAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoTelefoneAluno.ForeColor = System.Drawing.Color.Black;
             this.textoTelefoneAluno.Location = new System.Drawing.Point(77, 112);
             this.textoTelefoneAluno.Name = "textoTelefoneAluno";
@@ -149,6 +158,7 @@
             // 
             this.textoEnderecoAluno.BackColor = System.Drawing.Color.White;
             this.textoEnderecoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoEnderecoAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoEnderecoAluno.ForeColor = System.Drawing.Color.Black;
             this.textoEnderecoAluno.Location = new System.Drawing.Point(77, 83);
             this.textoEnderecoAluno.Name = "textoEnderecoAluno";
@@ -159,6 +169,7 @@
             // 
             this.textoDataNascimentoAluno.BackColor = System.Drawing.Color.White;
             this.textoDataNascimentoAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoDataNascimentoAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoDataNascimentoAluno.ForeColor = System.Drawing.Color.Black;
             this.textoDataNascimentoAluno.Location = new System.Drawing.Point(142, 54);
             this.textoDataNascimentoAluno.Name = "textoDataNascimentoAluno";
@@ -169,6 +180,7 @@
             // 
             this.textoNomeAluno.BackColor = System.Drawing.Color.White;
             this.textoNomeAluno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textoNomeAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoNomeAluno.ForeColor = System.Drawing.Color.Black;
             this.textoNomeAluno.Location = new System.Drawing.Point(54, 23);
             this.textoNomeAluno.Name = "textoNomeAluno";
@@ -179,10 +191,11 @@
             // 
             this.label12.AutoSize = true;
             this.label12.BackColor = System.Drawing.Color.Transparent;
-            this.label12.ForeColor = System.Drawing.Color.White;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.Color.Black;
             this.label12.Location = new System.Drawing.Point(379, 147);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(25, 13);
+            this.label12.Size = new System.Drawing.Size(28, 13);
             this.label12.TabIndex = 74;
             this.label12.Text = "RA:";
             // 
@@ -190,10 +203,11 @@
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
-            this.label11.ForeColor = System.Drawing.Color.White;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.Black;
             this.label11.Location = new System.Drawing.Point(379, 115);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(96, 13);
+            this.label11.Size = new System.Drawing.Size(114, 13);
             this.label11.TabIndex = 73;
             this.label11.Text = "Data de Matrícula:";
             // 
@@ -201,10 +215,11 @@
             // 
             this.label10.AutoSize = true;
             this.label10.BackColor = System.Drawing.Color.Transparent;
-            this.label10.ForeColor = System.Drawing.Color.White;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.Black;
             this.label10.Location = new System.Drawing.Point(379, 83);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(43, 13);
+            this.label10.Size = new System.Drawing.Size(50, 13);
             this.label10.TabIndex = 72;
             this.label10.Text = "Estado:";
             // 
@@ -212,10 +227,11 @@
             // 
             this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.Color.Transparent;
-            this.label9.ForeColor = System.Drawing.Color.White;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.Black;
             this.label9.Location = new System.Drawing.Point(379, 54);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(43, 13);
+            this.label9.Size = new System.Drawing.Size(50, 13);
             this.label9.TabIndex = 71;
             this.label9.Text = "Cidade:";
             // 
@@ -223,10 +239,11 @@
             // 
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
-            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.Black;
             this.label8.Location = new System.Drawing.Point(379, 23);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(30, 13);
+            this.label8.Size = new System.Drawing.Size(34, 13);
             this.label8.TabIndex = 70;
             this.label8.Text = "CPF:";
             // 
@@ -234,10 +251,11 @@
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.Transparent;
-            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(10, 174);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(37, 13);
+            this.label7.Size = new System.Drawing.Size(43, 13);
             this.label7.TabIndex = 69;
             this.label7.Text = "Curso:";
             // 
@@ -245,10 +263,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(10, 147);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(44, 13);
+            this.label6.Size = new System.Drawing.Size(53, 13);
             this.label6.TabIndex = 68;
             this.label6.Text = "E - mail:";
             // 
@@ -256,10 +275,11 @@
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Black;
             this.label5.Location = new System.Drawing.Point(10, 115);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 13);
+            this.label5.Size = new System.Drawing.Size(61, 13);
             this.label5.TabIndex = 67;
             this.label5.Text = "Telefone:";
             // 
@@ -267,10 +287,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
-            this.label4.ForeColor = System.Drawing.Color.White;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Location = new System.Drawing.Point(10, 83);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(56, 13);
+            this.label4.Size = new System.Drawing.Size(65, 13);
             this.label4.TabIndex = 66;
             this.label4.Text = "Endereço:";
             // 
@@ -278,10 +299,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(10, 54);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(107, 13);
+            this.label3.Size = new System.Drawing.Size(126, 13);
             this.label3.TabIndex = 65;
             this.label3.Text = "Data de Nascimento:";
             // 
@@ -289,16 +311,18 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(10, 23);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 13);
+            this.label2.Size = new System.Drawing.Size(43, 13);
             this.label2.TabIndex = 64;
             this.label2.Text = "Nome:";
             // 
             // botaoAdicionarAluno
             // 
             this.botaoAdicionarAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoAdicionarAluno.ForeColor = System.Drawing.Color.Black;
             this.botaoAdicionarAluno.Location = new System.Drawing.Point(428, 218);
             this.botaoAdicionarAluno.Name = "botaoAdicionarAluno";
             this.botaoAdicionarAluno.Size = new System.Drawing.Size(118, 23);
@@ -309,6 +333,7 @@
             // botaoVoltar
             // 
             this.botaoVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.botaoVoltar.ForeColor = System.Drawing.Color.Black;
             this.botaoVoltar.Location = new System.Drawing.Point(13, 218);
             this.botaoVoltar.Name = "botaoVoltar";
             this.botaoVoltar.Size = new System.Drawing.Size(75, 23);
@@ -320,7 +345,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.BackColor = System.Drawing.Color.Silver;
             this.ClientSize = new System.Drawing.Size(713, 262);
             this.Controls.Add(this.comboCursos);
             this.Controls.Add(this.botaoLimparAluno);

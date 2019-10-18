@@ -56,7 +56,9 @@ namespace SistemaDeNotas
             {
                 telaPesquisaAlunos telaPesquisaAlunos = new telaPesquisaAlunos();
                 telaPesquisaAlunos.Propriedade = comboAlunos.Text;
-                telaPesquisaAlunos.Show();
+                telaPesquisaAlunos.TopLevel = false;
+                telaPesquisaAlunos.Visible = true;
+                panel1.Controls.Add(telaPesquisaAlunos);         
             }
             else
                 MessageBox.Show("Digite o nome de algum aluno!");

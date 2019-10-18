@@ -50,5 +50,21 @@ namespace SistemaDeNotas
         {
             textoSenhaAluno.PasswordChar = '*';
         }
+
+        private void TextoRa_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void TextoRa_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(textoRa.Text, "  ^ [0-9]"))
+            {
+                textoRa.Text = "";
+            }
+        }
     }
 }

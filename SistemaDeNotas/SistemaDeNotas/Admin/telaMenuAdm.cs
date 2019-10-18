@@ -18,32 +18,6 @@ namespace SistemaDeNotas
             InitializeComponent();
         }
 
-        public void ArredondaCantosdoForm()
-        {
-
-            GraphicsPath PastaGrafica = new GraphicsPath();
-            PastaGrafica.AddRectangle(new System.Drawing.Rectangle(1, 1, this.Size.Width, this.Size.Height));
-
-            //Arredondar canto superior esquerdo        
-            PastaGrafica.AddRectangle(new System.Drawing.Rectangle(1, 1, 10, 10));
-            PastaGrafica.AddPie(1, 1, 20, 20, 180, 90);
-
-            //Arredondar canto superior direito
-            PastaGrafica.AddRectangle(new System.Drawing.Rectangle(this.Width - 12, 1, 12, 13));
-            PastaGrafica.AddPie(this.Width - 24, 1, 24, 26, 270, 90);
-
-            //Arredondar canto inferior esquerdo
-            PastaGrafica.AddRectangle(new System.Drawing.Rectangle(1, this.Height - 10, 10, 10));
-            PastaGrafica.AddPie(1, this.Height - 20, 20, 20, 90, 90);
-
-            //Arredondar canto inferior direito
-            PastaGrafica.AddRectangle(new System.Drawing.Rectangle(this.Width - 12, this.Height - 13, 13, 13));
-            PastaGrafica.AddPie(this.Width - 24, this.Height - 26, 24, 26, 0, 90);
-
-            PastaGrafica.SetMarkers();
-            this.Region = new Region(PastaGrafica);
-        }
-
         private void BotaoSair_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -51,45 +25,53 @@ namespace SistemaDeNotas
 
         private void BotaoMedia_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaMedia telaMedia = new telaMedia();
-            telaMedia.ShowDialog();
-            this.Visible = true;
+            telaMedia.TopLevel = false;
+            telaMedia.Visible = true;
+            painelMenuAdm.Controls.Add(telaMedia);
         }
 
         private void botaoTelaAlunos_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaAlunos telaAlunos = new telaAlunos();
-            telaAlunos.ShowDialog();
-            this.Visible = true;
+            telaAlunos.TopLevel = false;
+            telaAlunos.Visible = true;
+            painelMenuAdm.Controls.Add(telaAlunos);
+            //telaAlunos.ShowDialog();
         }
 
         private void botaoTelaProfessores_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaProfessores telaProfessores = new telaProfessores();
-            telaProfessores.ShowDialog();
-            this.Visible = true;
+            telaProfessores.TopLevel = false;
+            telaProfessores.Visible = true;
+            painelMenuAdm.Controls.Add(telaProfessores);
+            //telaProfessores.ShowDialog();
         }
 
         private void BotaoTelaDisciplinas_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaDisciplinas telaDisciplinas = new telaDisciplinas();
-            telaDisciplinas.ShowDialog();
-            this.Visible = true;
+            telaDisciplinas.TopLevel = false;
+            telaDisciplinas.Visible = true;
+            painelMenuAdm.Controls.Add(telaDisciplinas);
+            //telaDisciplinas.ShowDialog();
         }
 
         private void BotaoTelaFuncionarios_Click(object sender, EventArgs e)
         {
-            this.Visible = false;
             telaFuncionarios telaFuncionarios = new telaFuncionarios();
-            telaFuncionarios.ShowDialog();
-            this.Visible = true;
+            telaFuncionarios.TopLevel = false;
+            telaFuncionarios.Visible = true;
+            painelMenuAdm.Controls.Add(telaFuncionarios);
+            //telaFuncionarios.ShowDialog();
         }
 
         private void TelaMenuAdm_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void PainelMenuAdm_Paint(object sender, PaintEventArgs e)
         {
         }
     }
