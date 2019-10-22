@@ -106,9 +106,15 @@
             // panel1
             // 
             this.panel1.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(6, 103);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(723, 294);
+=======
+            this.panel1.Location = new System.Drawing.Point(12, 103);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(723, 372);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.panel1.TabIndex = 8;
             // 
             // telaAlunos
@@ -116,7 +122,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(743, 409);
+=======
+            this.ClientSize = new System.Drawing.Size(747, 487);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.botaoVoltar);

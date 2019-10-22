@@ -58,7 +58,11 @@ namespace SistemaDeNotas
                 telaPesquisaAlunos.Propriedade = comboAlunos.Text;
                 telaPesquisaAlunos.TopLevel = false;
                 telaPesquisaAlunos.Visible = true;
+<<<<<<< HEAD
                 panel1.Controls.Add(telaPesquisaAlunos);         
+=======
+                panel1.Controls.Add(telaPesquisaAlunos);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             }
             else
                 MessageBox.Show("Digite o nome de algum aluno!");

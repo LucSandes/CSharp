@@ -84,7 +84,11 @@
             // 
             this.botaoLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoLogin.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.botaoLogin.Location = new System.Drawing.Point(85, 139);
+=======
+            this.botaoLogin.Location = new System.Drawing.Point(94, 139);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoLogin.Name = "botaoLogin";
             this.botaoLogin.Size = new System.Drawing.Size(75, 23);
             this.botaoLogin.TabIndex = 8;
@@ -120,11 +124,18 @@
             // 
             // panel1
             // 
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(-1, 1);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(929, 681);
             this.panel1.TabIndex = 11;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.Panel1_Paint);
+=======
+            this.panel1.Location = new System.Drawing.Point(12, 9);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(905, 159);
+            this.panel1.TabIndex = 11;
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             // 
             // groupBox1
             // 
@@ -143,7 +154,10 @@
             this.groupBox1.Size = new System.Drawing.Size(169, 172);
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
+<<<<<<< HEAD
             this.groupBox1.Enter += new System.EventHandler(this.GroupBox1_Enter);
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             // 
             // telaLogin
             // 

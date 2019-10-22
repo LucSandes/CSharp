@@ -35,14 +35,21 @@
             this.botaoTelaDisciplinas = new System.Windows.Forms.Button();
             this.botaoTelaFuncionarios = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+<<<<<<< HEAD
             this.painelMenuAdm = new System.Windows.Forms.Panel();
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // botaoSair
             // 
             this.botaoSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.botaoSair.Location = new System.Drawing.Point(14, 99);
+=======
+            this.botaoSair.Location = new System.Drawing.Point(7, 91);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoSair.Name = "botaoSair";
             this.botaoSair.Size = new System.Drawing.Size(118, 23);
             this.botaoSair.TabIndex = 0;
@@ -115,13 +122,18 @@
             this.groupBox1.Controls.Add(this.botaoSair);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.groupBox1.Location = new System.Drawing.Point(103, 9);
+=======
+            this.groupBox1.Location = new System.Drawing.Point(103, 12);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(695, 135);
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Escolha a acão:";
             // 
+<<<<<<< HEAD
             // painelMenuAdm
             // 
             this.painelMenuAdm.Location = new System.Drawing.Point(12, 165);
@@ -130,13 +142,19 @@
             this.painelMenuAdm.TabIndex = 7;
             this.painelMenuAdm.Paint += new System.Windows.Forms.PaintEventHandler(this.PainelMenuAdm_Paint);
             // 
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             // telaMenuAdm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(905, 681);
             this.Controls.Add(this.painelMenuAdm);
+=======
+            this.ClientSize = new System.Drawing.Size(905, 159);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "telaMenuAdm";
@@ -157,6 +175,9 @@
         private System.Windows.Forms.Button botaoTelaDisciplinas;
         private System.Windows.Forms.Button botaoTelaFuncionarios;
         private System.Windows.Forms.GroupBox groupBox1;
+<<<<<<< HEAD
         private System.Windows.Forms.Panel painelMenuAdm;
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
     }
 }

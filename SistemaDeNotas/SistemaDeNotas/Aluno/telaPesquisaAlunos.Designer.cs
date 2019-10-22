@@ -85,7 +85,11 @@
             this.groupBox2.ForeColor = System.Drawing.Color.Black;
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
             this.groupBox2.Name = "groupBox2";
+<<<<<<< HEAD
             this.groupBox2.Size = new System.Drawing.Size(683, 209);
+=======
+            this.groupBox2.Size = new System.Drawing.Size(683, 260);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.groupBox2.TabIndex = 32;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Dados:";
@@ -135,7 +139,11 @@
             // 
             this.textoCpfAluno.BackColor = System.Drawing.Color.White;
             this.textoCpfAluno.Enabled = false;
+<<<<<<< HEAD
             this.textoCpfAluno.ForeColor = System.Drawing.SystemColors.InactiveCaption;
+=======
+            this.textoCpfAluno.ForeColor = System.Drawing.Color.Black;
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoCpfAluno.Location = new System.Drawing.Point(423, 19);
             this.textoCpfAluno.Name = "textoCpfAluno";
             this.textoCpfAluno.Size = new System.Drawing.Size(254, 20);
@@ -330,7 +338,11 @@
             // botaoVoltar
             // 
             this.botaoVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.botaoVoltar.Location = new System.Drawing.Point(16, 237);
+=======
+            this.botaoVoltar.Location = new System.Drawing.Point(16, 278);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoVoltar.Name = "botaoVoltar";
             this.botaoVoltar.Size = new System.Drawing.Size(75, 23);
             this.botaoVoltar.TabIndex = 33;
@@ -341,7 +353,11 @@
             // botaoAlterarAluno
             // 
             this.botaoAlterarAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.botaoAlterarAluno.Location = new System.Drawing.Point(115, 237);
+=======
+            this.botaoAlterarAluno.Location = new System.Drawing.Point(311, 278);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoAlterarAluno.Name = "botaoAlterarAluno";
             this.botaoAlterarAluno.Size = new System.Drawing.Size(118, 23);
             this.botaoAlterarAluno.TabIndex = 34;
@@ -352,7 +368,11 @@
             // botaoLimpar
             // 
             this.botaoLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.botaoLimpar.Location = new System.Drawing.Point(620, 237);
+=======
+            this.botaoLimpar.Location = new System.Drawing.Point(620, 278);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoLimpar.Name = "botaoLimpar";
             this.botaoLimpar.Size = new System.Drawing.Size(75, 23);
             this.botaoLimpar.TabIndex = 35;
@@ -365,7 +385,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(707, 282);
+=======
+            this.ClientSize = new System.Drawing.Size(707, 333);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.Controls.Add(this.botaoLimpar);
             this.Controls.Add(this.botaoAlterarAluno);
             this.Controls.Add(this.botaoVoltar);

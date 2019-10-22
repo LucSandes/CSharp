@@ -76,6 +76,7 @@ namespace SistemaDeNotas
         {
             limparTextBoxes(this.Controls);
         }
+<<<<<<< HEAD
 
         private void textoCpfAluno_Enter(object sender, EventArgs e)
         {
@@ -94,5 +95,7 @@ namespace SistemaDeNotas
                 textoCpfAluno.ForeColor = Color.Silver;
             }
         }
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
     }
 }

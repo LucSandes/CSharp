@@ -53,6 +53,7 @@ namespace SistemaDeNotas
         {
 
         }
+<<<<<<< HEAD
 
         private void GroupBox1_Enter(object sender, EventArgs e)
         {
@@ -63,5 +64,7 @@ namespace SistemaDeNotas
         {
 
         }
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
     }
 }

@@ -86,7 +86,11 @@
             // 
             this.botaoVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoVoltar.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.botaoVoltar.Location = new System.Drawing.Point(198, 12);
+=======
+            this.botaoVoltar.Location = new System.Drawing.Point(13, 13);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoVoltar.Name = "botaoVoltar";
             this.botaoVoltar.Size = new System.Drawing.Size(75, 23);
             this.botaoVoltar.TabIndex = 4;
@@ -147,7 +151,11 @@
             this.groupBox1.Controls.Add(this.textoNota1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.groupBox1.Location = new System.Drawing.Point(198, 54);
+=======
+            this.groupBox1.Location = new System.Drawing.Point(13, 55);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(224, 159);
             this.groupBox1.TabIndex = 9;
@@ -158,7 +166,11 @@
             // 
             this.botaoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoMedia.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.botaoMedia.Location = new System.Drawing.Point(445, 102);
+=======
+            this.botaoMedia.Location = new System.Drawing.Point(260, 103);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoMedia.Name = "botaoMedia";
             this.botaoMedia.Size = new System.Drawing.Size(75, 23);
             this.botaoMedia.TabIndex = 10;
@@ -170,7 +182,11 @@
             // 
             this.botaoLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botaoLimpar.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.botaoLimpar.Location = new System.Drawing.Point(445, 139);
+=======
+            this.botaoLimpar.Location = new System.Drawing.Point(260, 140);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.botaoLimpar.Name = "botaoLimpar";
             this.botaoLimpar.Size = new System.Drawing.Size(75, 23);
             this.botaoLimpar.TabIndex = 11;
@@ -182,7 +198,11 @@
             // 
             this.textoMaior.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMaior.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.textoMaior.Location = new System.Drawing.Point(544, 70);
+=======
+            this.textoMaior.Location = new System.Drawing.Point(359, 71);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoMaior.Name = "textoMaior";
             this.textoMaior.Size = new System.Drawing.Size(100, 20);
             this.textoMaior.TabIndex = 9;
@@ -191,7 +211,11 @@
             // 
             this.textoMenor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMenor.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.textoMenor.Location = new System.Drawing.Point(544, 119);
+=======
+            this.textoMenor.Location = new System.Drawing.Point(359, 120);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoMenor.Name = "textoMenor";
             this.textoMenor.Size = new System.Drawing.Size(100, 20);
             this.textoMenor.TabIndex = 12;
@@ -200,7 +224,11 @@
             // 
             this.textoMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textoMedia.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.textoMedia.Location = new System.Drawing.Point(544, 165);
+=======
+            this.textoMedia.Location = new System.Drawing.Point(359, 166);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoMedia.Name = "textoMedia";
             this.textoMedia.Size = new System.Drawing.Size(100, 20);
             this.textoMedia.TabIndex = 13;
@@ -212,7 +240,11 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(541, 54);
+=======
+            this.label3.Location = new System.Drawing.Point(356, 55);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(73, 13);
             this.label3.TabIndex = 9;
@@ -224,7 +256,11 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.label6.Location = new System.Drawing.Point(541, 102);
+=======
+            this.label6.Location = new System.Drawing.Point(356, 103);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(77, 13);
             this.label6.TabIndex = 14;
@@ -236,7 +272,11 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
+<<<<<<< HEAD
             this.label7.Location = new System.Drawing.Point(541, 149);
+=======
+            this.label7.Location = new System.Drawing.Point(356, 150);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(45, 13);
             this.label7.TabIndex = 15;
@@ -246,7 +286,11 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label8.Location = new System.Drawing.Point(329, 12);
+=======
+            this.label8.Location = new System.Drawing.Point(144, 13);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(171, 24);
             this.label8.TabIndex = 16;
@@ -257,7 +301,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(882, 497);
+=======
+            this.ClientSize = new System.Drawing.Size(471, 238);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);

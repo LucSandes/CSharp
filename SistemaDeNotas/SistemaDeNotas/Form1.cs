@@ -26,7 +26,10 @@ namespace SistemaDeNotas
             telaLoginAlunos.TopLevel = false;
             telaLoginAlunos.Visible = true;
             panel1.Controls.Add(telaLoginAlunos);
+<<<<<<< HEAD
             telaLoginAlunos.BringToFront();
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
         }
 
         private void BotaoProfessores_Click(object sender, EventArgs e)
@@ -36,7 +39,10 @@ namespace SistemaDeNotas
             telaLoginProfessoresDirecao.TopLevel = false;
             telaLoginProfessoresDirecao.Visible = true;
             panel1.Controls.Add(telaLoginProfessoresDirecao);
+<<<<<<< HEAD
             telaLoginProfessoresDirecao.BringToFront();
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
 
         }
 
@@ -46,7 +52,10 @@ namespace SistemaDeNotas
             telaLoginFuncionarios.TopLevel = false;
             telaLoginFuncionarios.Visible = true;
             panel1.Controls.Add(telaLoginFuncionarios);
+<<<<<<< HEAD
             telaLoginFuncionarios.BringToFront();
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
         }
 
         private void PictureBox2_Click(object sender, EventArgs e)

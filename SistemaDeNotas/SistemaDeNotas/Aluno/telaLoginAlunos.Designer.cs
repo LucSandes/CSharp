@@ -54,7 +54,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
+<<<<<<< HEAD
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(9, 73);
             this.label1.Name = "label1";
@@ -64,7 +67,10 @@
             // 
             // textoRa
             // 
+<<<<<<< HEAD
             this.textoRa.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoRa.ForeColor = System.Drawing.Color.Black;
             this.textoRa.Location = new System.Drawing.Point(63, 70);
             this.textoRa.Name = "textoRa";
@@ -77,7 +83,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
+<<<<<<< HEAD
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(9, 112);
             this.label2.Name = "label2";
@@ -87,7 +96,10 @@
             // 
             // textoSenhaAluno
             // 
+<<<<<<< HEAD
             this.textoSenhaAluno.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+=======
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.textoSenhaAluno.ForeColor = System.Drawing.Color.Black;
             this.textoSenhaAluno.Location = new System.Drawing.Point(63, 105);
             this.textoSenhaAluno.Name = "textoSenhaAluno";
@@ -124,7 +136,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(929, 681);
+=======
+            this.ClientSize = new System.Drawing.Size(212, 200);
+>>>>>>> 00974347022be3184679fc2b3cf6a3ff03e7937d
             this.Controls.Add(this.button2);
             this.Controls.Add(this.botaoLoginAluno);
             this.Controls.Add(this.textoSenhaAluno);
